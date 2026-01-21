@@ -16,3 +16,9 @@ When writing complex features or significant refactors, use an ExecPlan (as desc
   - `eml2md -i <input.eml> -o <output.md> [-f <format>]`
   - Installed binary used here: `/Users/nskaria/projects/eml2md/target/release/eml2md`
 - After conversion, extract booking facts from `emails/md/` and update `docs/trip_facts.md`.
+
+# Secrets (lookup table)
+
+- Secrets live in `secrets/values.env` (gitignored).
+- Render a fully substituted view of `docs/trip_facts.md` with:
+  - `scripts/render_trip_facts.py` (stdout)

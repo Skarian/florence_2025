@@ -1,6 +1,4 @@
 /.config/
 **/.DS_Store
 /emails/
-
-# Trip facts (contains sensitive booking details)
-docs/trip_facts.md
+/secrets/
