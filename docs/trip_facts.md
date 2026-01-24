@@ -11,6 +11,7 @@ To render a fully substituted view with secrets, run: `scripts/render_trip_facts
 - Base area: Oltrarno (San Frediano)
 - Work block: 5:00–10:00 PM for Weeks 1–2 only
 - Week 3 (final week before departure): no work block
+- Weeks 1–2 constraint: no late evenings or late nights due to the work block
 
 ## Lodging (booked)
 - San Pier Novello in Oltrarno (Booking.com)
@@ -64,6 +65,13 @@ To render a fully substituted view with secrets, run: `scripts/render_trip_facts
 - Week 1 (Feb 7–15): Explore Florence on weekdays; 1 day trip on the weekend (considering Venice, Tuscany/Chianti, Rome)
 - Week 2 (Feb 16–22): Explore Florence on weekdays; 1 day trip on the weekend (considering Venice, Tuscany/Chianti, Rome)
 - Week 3 (Feb 23–27): Explore Florence; 1–2 additional day trips (leftovers from the list or something new)
+
+## Trip structure (planned, not booked)
+| Week | Dates | Day trip structure | Notes |
+| --- | --- | --- | --- |
+| Week 1 | Feb 7–15 | 1 weekend day trip (Saturday preferred; Sunday optional) | Destination TBD |
+| Week 2 | Feb 16–22 | 1 weekend day trip (Saturday preferred; Sunday optional) | Destination TBD |
+| Week 3 | Feb 23–27 | 2 weekday day trips | One is Tuscany/Chianti wine tour; one TBD |
 
 ## Planned day trips and anchors (not booked)
 - Rome day trip
