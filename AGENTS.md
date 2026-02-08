@@ -2,6 +2,13 @@
 
 When writing complex features or significant refactors, use an ExecPlan (as described in .agent/PLANS.md) from design to implementation.
 
+# Continuity
+
+- `plans/continuity.md` is the running continuity log for this repo (local-only and gitignored by design).
+- At the start of any substantive task, and any time work is resumed after a pause, read `plans/continuity.md` first.
+- Keep `plans/continuity.md` up to date as work progresses, especially when phase status, key decisions, quality gates, or next steps change.
+- Before ending a substantial work session, update `plans/continuity.md` with current status, what changed, and concrete next actions.
+
 # Trip Facts Source of Truth
 
 - `docs/trip_facts.md` is the single source of truth for booked trip details (flights, lodging, confirmations, payments).

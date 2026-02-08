@@ -2,6 +2,8 @@
 
 [Trip Overview](./README.md) | [Transport](./transpo.md) | [Activities](./activities.md) | [Tours](./tours.md) | [Back to Day Trips Index](../README.md)
 
+Plan note:
+- Not planning to book a Venice guided tour in advance; decide on the day if desired.
 
 Optional guided tour (time-permitting):
 

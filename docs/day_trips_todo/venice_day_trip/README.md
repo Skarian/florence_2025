@@ -5,6 +5,13 @@
 
 Date: Saturday, February 21, 2026
 Fallback: Sunday, February 22, 2026 if Saturday bookings conflict
+Status: transport booked (Trenitalia)
+
+Stations:
+- Firenze S. M. Novella <-> Venezia S. Lucia
+
+Plan note:
+- Keep Venice casual and go with the flow; no advance bookings planned unless you change your mind.
 
 Scope:
 - Only bookings required for the day trip (transport + bookable activities)

@@ -5,10 +5,15 @@
 
 ## Required: Colosseum (timed entry)
 
-Official booking site:
+Booked via guided tour:
+- Colosseum Arena Floor, Roman Forum and Palatine Hill Guided Tour (Viator) on Sat Feb 14, 2026 at 1:30 PM.
+- Meeting point: Santi Cosma e Damiano, Via dei Fori Imperiali, 1, 00186 Roma RM, Italy.
+- No separate official Colosseum ticket needed unless you change plans.
+
+Primary official booking site (use this first):
 - <a href="https://ticketing.colosseo.it/en" target="_blank" rel="noopener noreferrer">https://ticketing.colosseo.it/en</a>
 Official rules and hours:
-- <a href="https://colosseo.it/en/visita/orari-e-biglietti/" target="_blank" rel="noopener noreferrer">https://colosseo.it/en/visita/orari-e-biglietti/</a>
+- <a href="https://colosseo.it/en/opening-times-and-tickets/" target="_blank" rel="noopener noreferrer">https://colosseo.it/en/opening-times-and-tickets/</a>
 
 Key rules (official):
 - Ticket sales open 30 days before the visit date.
@@ -61,4 +66,13 @@ Decision guidance:
 - If you want Arena/Underground access and can commit to a specific time, choose a Full Experience or guided option and align trains around the time slot.
 
 Reference:
-- Full Experience options (official): <a href="https://colosseo.it/en/2024/10/changes-to-access-procedures-for-the-colosseum-full-experience-tickets/" target="_blank" rel="noopener noreferrer">https://colosseo.it/en/2024/10/changes-to-access-procedures-for-the-colosseum-full-experience-tickets/</a>
+- Full Experience Arena (official): <a href="https://colosseo.it/en/tickets/full-experience-arena/" target="_blank" rel="noopener noreferrer">https://colosseo.it/en/tickets/full-experience-arena/</a>
+- Full Experience Underground + Arena (official): <a href="https://colosseo.it/en/tickets/full-experience-underground-arena/" target="_blank" rel="noopener noreferrer">https://colosseo.it/en/tickets/full-experience-underground-arena/</a>
+- Fallback booking portal (official): <a href="https://ticketing.colosseo.it/en" target="_blank" rel="noopener noreferrer">https://ticketing.colosseo.it/en</a>
+
+## Optional walk-by (free): Trevi Fountain
+
+Notes:
+- No ticket required; open-air site.
+- Expect heavy crowds; best visited early morning or later evening.
+- Allocate ~20-30 minutes including photos.

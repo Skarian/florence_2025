@@ -3,7 +3,16 @@
 [Trip Overview](./README.md) | [Transport](./transpo.md) | [Activities](./activities.md) | [Tours](./tours.md) | [Back to Day Trips Index](../README.md)
 
 
-Booking priority: first.
+Booking priority: booked.
+
+Booked tickets (Trenitalia Frecciarossa):
+- PNR: R3PZHN
+- Outbound: Sat Feb 14, 2026 - Frecciarossa 9515, Firenze S. M. Novella 09:14 -> Roma Termini 10:49
+  - Sandy Skaria: Coach 7 Seat 3A (Ticket 2740228253)
+  - Neil Skaria: Coach 7 Seat 3B (Ticket 2740228254)
+- Return: Sun Feb 15, 2026 - Frecciarossa 9532, Roma Termini 12:10 -> Firenze S. M. Novella 13:46
+  - Sandy Skaria: Coach 7 Seat 3A (Ticket 2740228255)
+  - Neil Skaria: Coach 7 Seat 3B (Ticket 2740228256)
 
 Preferred date: Saturday, February 14, 2026 (fallback: Sunday, February 15, 2026).
 

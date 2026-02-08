@@ -1,0 +1,99 @@
+[
+  {
+    "id": "greve-matteotti-square",
+    "name": "Piazza Giacomo Matteotti (Greve in Chianti)",
+    "city": "Chianti",
+    "category": "market",
+    "description": "The main square in Greve in Chianti and a natural gathering point for coffee, a quick stroll, or a market stop. The arcaded layout makes it an easy pause before exploring nearby villages or wineries.",
+    "highlight": "Chianti's central market square",
+    "address": "Piazza Giacomo Matteotti, 50022 Greve in Chianti",
+    "lat": 43.58333,
+    "lon": 11.31667,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Giacomo+Matteotti+%28Greve+in+Chianti%29+Piazza+Giacomo+Matteotti%2C+50022+Greve+in+Chianti&query_place_id=ChIJnZOBbBdLKhMRKejtxSA2oGw",
+    "tags": [
+      "village",
+      "local",
+      "stroll"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Most lively on market days and weekends.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open-air square; check market schedules locally.",
+    "sourceUrl": "https://www.comune.greve-in-chianti.fi.it//vivere-il-comune/luoghi/piazza-giacomo-matteotti",
+    "placeId": "ChIJnZOBbBdLKhMRKejtxSA2oGw"
+  },
+  {
+    "id": "badia-a-passignano-abbey",
+    "name": "Badia a Passignano Abbey",
+    "city": "Chianti",
+    "category": "landmark",
+    "description": "A historic abbey tucked into the Chianti hills, known for its quiet cloisters and serene setting. It pairs well with nearby wineries and makes a peaceful counterpoint to bustling Florence days.",
+    "highlight": "Quiet abbey in the Chianti hills",
+    "address": "Strada di Badia, 29, 50028 Badia A Passignano",
+    "lat": 43.5777,
+    "lon": 11.2473,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Badia+a+Passignano+Abbey+Strada+di+Badia%2C+29%2C+50028+Badia+A+Passignano&query_place_id=ChIJwelDiYFJKhMR6eBHeyHPO2o",
+    "tags": [
+      "quiet",
+      "history",
+      "scenic"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "quiet",
+    "crowdNote": "Usually calm, especially outside group tours.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false,
+      "notes": "Guided visits may require a reservation."
+    },
+    "hoursNote": "Check local site for visiting hours.",
+    "sourceUrl": "https://www.feelflorence.it/en/points-interest/badia-passignano",
+    "placeId": "ChIJwelDiYFJKhMR6eBHeyHPO2o"
+  },
+  {
+    "id": "osteria-di-passignano",
+    "name": "Osteria di Passignano",
+    "city": "Chianti",
+    "category": "food",
+    "description": "A refined Tuscan dining stop in the Chianti Classico zone, ideal for a long lunch or dinner between wineries. The menu leans on local ingredients and pairs easily with nearby estate wines.",
+    "highlight": "Classic Chianti dining with wine pairings",
+    "address": "Strada di Badia, 32, 50028 Badia A Passignano",
+    "lat": 43.5777,
+    "lon": 11.2473,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Osteria+di+Passignano+Strada+di+Badia%2C+32%2C+50028+Badia+A+Passignano&query_place_id=ChIJ67nz44FJKhMRARsnAuVBgp0",
+    "tags": [
+      "foodie",
+      "wine",
+      "reservation"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "seasonal tasting menu",
+      "chianti classico pairings"
+    ],
+    "price": "$$$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Book ahead for prime dining hours.",
+    "timeNeeded": "2h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": true,
+      "url": "https://www.osteria.it/en/"
+    },
+    "hoursNote": "Reservation strongly recommended.",
+    "sourceUrl": "https://www.osteria.it/en/",
+    "placeId": "ChIJ67nz44FJKhMRARsnAuVBgp0"
+  }
+]

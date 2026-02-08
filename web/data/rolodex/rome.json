@@ -1,0 +1,93 @@
+[
+  {
+    "id": "trevi-fountain",
+    "name": "Trevi Fountain",
+    "city": "Rome",
+    "category": "landmark",
+    "description": "Rome's most famous fountain and a quick-hit stop between other historic sights. The Baroque facade is dramatic in the morning and electric at night, making it an easy anchor for a short photo break.",
+    "highlight": "Iconic Baroque fountain and coin toss",
+    "address": "Piazza di Trevi, Rome",
+    "lat": 41.900765,
+    "lon": 12.483238,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trevi+Fountain+Piazza+di+Trevi%2C+Rome&query_place_id=ChIJ1UCDJ1NgLxMRtrsCzOHxdvY",
+    "tags": [
+      "classic",
+      "photo",
+      "short-stop"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "busy",
+    "crowdNote": "Crowds peak mid-day; go early or late for space.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access site; best lighting early or late.",
+    "sourceUrl": "https://turismoroma.it/en/places/trevi-fountain",
+    "placeId": "ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"
+  },
+  {
+    "id": "pantheon",
+    "name": "Pantheon",
+    "city": "Rome",
+    "category": "landmark",
+    "description": "A masterpiece of Roman engineering with a massive unreinforced dome and open oculus. The interior is serene and symmetrical, and it fits nicely into a short historic loop with nearby piazzas and cafes.",
+    "highlight": "Legendary dome and open oculus",
+    "address": "Piazza della Rotonda, 00186 Rome",
+    "lat": 41.8986,
+    "lon": 12.4768,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pantheon+Piazza+della+Rotonda%2C+00186+Rome&query_place_id=ChIJqUCGZ09gLxMRLM42IPpl0co",
+    "tags": [
+      "ancient",
+      "architecture",
+      "historic"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Steady flow all day; early visits are calmer.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Check official hours for religious services.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+    "placeId": "ChIJqUCGZ09gLxMRLM42IPpl0co"
+  },
+  {
+    "id": "vatican-museums",
+    "name": "Vatican Museums",
+    "city": "Rome",
+    "category": "museum",
+    "description": "A massive museum complex that culminates in the Sistine Chapel. The routes wind through sculpture, tapestries, and the Raphael Rooms, so plan a focused visit if you want to avoid museum fatigue.",
+    "highlight": "Sistine Chapel and Raphael Rooms",
+    "address": "Viale Vaticano 6, 00192 Rome",
+    "lat": 41.9064,
+    "lon": 12.4544,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vatican+Museums+Viale+Vaticano+6%2C+00192+Rome&query_place_id=ChIJKcGbg2NgLxMRthZkUqDs4M8",
+    "tags": [
+      "art",
+      "renaissance",
+      "must-see"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Timed tickets recommended; midday queues are long.",
+    "timeNeeded": "half-day",
+    "walkIntensity": "long",
+    "booking": {
+      "required": true,
+      "url": "https://www.museivaticani.va/"
+    },
+    "hoursNote": "Ticketed museum; check the official calendar for closures.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vatican_Museums",
+    "placeId": "ChIJKcGbg2NgLxMRthZkUqDs4M8"
+  }
+]

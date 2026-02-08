@@ -2,6 +2,9 @@
 
 [Trip Overview](./README.md) | [Transport](./transpo.md) | [Activities](./activities.md) | [Tours](./tours.md) | [Back to Day Trips Index](../README.md)
 
+Plan note:
+- Keep it casual and decide on the day; no advance bookings planned for Venice activities.
+
 
 ## Required: Gondola ride
 
@@ -25,7 +28,7 @@ Reviews (third-party tour product reviews):
 ## Optional add-on 1 (time-permitting): Doge's Palace
 
 Official tickets (MUVE):
-- <a href="https://www.visitmuve.it/en/palazzo-ducale/" target="_blank" rel="noopener noreferrer">https://www.visitmuve.it/en/palazzo-ducale/</a> (ticket info + online purchase)
+- <a href="https://palazzoducale.visitmuve.it/en/visitor-information/" target="_blank" rel="noopener noreferrer">https://palazzoducale.visitmuve.it/en/visitor-information/</a> (ticket info + online purchase)
 
 Notes:
 - Winter hours: 9:00 AM-6:00 PM, last admission 5:00 PM (check date-specific calendar).

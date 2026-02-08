@@ -1,0 +1,716 @@
+{
+  "metadata": {
+    "generatedAt": "2026-02-02T20:10:00Z",
+    "sourceFiles": [
+      "docs/trip_facts.md",
+      "docs/day_trips_todo/rome_day_trip/README.md",
+      "docs/day_trips_todo/rome_day_trip/tours.md",
+      "docs/day_trips_todo/rome_day_trip/transpo.md",
+      "docs/day_trips_todo/venice_day_trip/README.md",
+      "docs/day_trips_todo/venice_day_trip/transpo.md",
+      "docs/day_trips_todo/chianti_wine_tour/README.md",
+      "docs/day_trips_todo/chianti_wine_tour/tours.md",
+      "emails/md/confirmed_viator_booking_1741831447.md",
+      "emails/md/confirmed_your_february_9_27_trip_heres_your_airbnb_receipt.md",
+      "emails/md/hotels_com_travel_confirmation_sat_feb_14_itinerary_73363301326406.md",
+      "emails/md/thanks_your_booking_is_confirmed_at_san_pier_novello_in_oltrarno.md",
+      "emails/md/this_is_your_receipt.md",
+      "emails/md/tour_booking_summary_funintuscany_com.md",
+      "emails/md/travel_reservation_center_trip_id_1011716430.md",
+      "emails/md/your_trenitalia_ticket.md",
+      "emails/md/your_trenitalia_ticket_copy.md"
+    ],
+    "notes": "Manual curation from trip facts, day-trip booking notes, and parsed receipts. Coordinates are sourced from public mapping references; a few meeting-point coordinates are approximate street-level estimates."
+  },
+  "people": {
+    "primary": [
+      "Neil Skaria",
+      "Sandy Skaria"
+    ],
+    "guests": []
+  },
+  "stays": [
+    {
+      "id": "san-pier-novello",
+      "name": "San Pier Novello in Oltrarno",
+      "city": "Florence",
+      "checkIn": "2026-02-08T14:00:00+01:00",
+      "checkOut": "2026-02-09T10:00:00+01:00",
+      "guests": [
+        "Sandy Skaria",
+        "Neil Skaria"
+      ],
+      "description": "One-night stay in the Santo Spirito/Oltrarno area, a walkable base near Via Romana with quick access to the river and historic core.",
+      "location": {
+        "name": "San Pier Novello in Oltrarno",
+        "address": "Via Romana 26, 50125 Florence, Italy",
+        "lat": 43.7633,
+        "lon": 11.244761,
+        "description": "Via Romana address in Santo Spirito, near the Pitti Palace corridor.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Pier+Novello+in+Oltrarno+Via+Romana+26%2C+50125+Florence%2C+Italy&query_place_id=ChIJTQzo0xFRKhMRI4MtT6cP8KQ",
+        "placeId": "ChIJTQzo0xFRKhMRI4MtT6cP8KQ"
+      },
+      "booking": {
+        "confirmation": "5107531117",
+        "vendor": "Booking.com",
+        "amount": 122.4,
+        "currency": "EUR",
+        "notes": "Paid \u20ac110.40 via PayPal on Jan 7, 2026; city tax \u20ac12 due at property; check-in window 2:00\u20138:00 PM."
+      }
+    },
+    {
+      "id": "orto-apartment",
+      "name": "Orto Apartment in Oltrarno",
+      "city": "Florence",
+      "checkIn": "2026-02-09T15:00:00+01:00",
+      "checkOut": "2026-02-27T10:00:00+01:00",
+      "guests": [
+        "Neil Skaria",
+        "Sandy Skaria"
+      ],
+      "description": "Primary Florence base in Oltrarno near Via dell'Orto, ideal for walking to Santo Spirito, the Arno, and the historic center.",
+      "location": {
+        "name": "Orto Apartment in Oltrarno",
+        "address": "Via dell'Orto 31, 50124 Florence, Italy",
+        "lat": 43.7689224,
+        "lon": 11.240889,
+        "description": "Residential street in the Oltrarno neighborhood, south of the Arno.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Orto+Apartment+in+Oltrarno+Via+dell%27Orto+31%2C+50124+Florence%2C+Italy&query_place_id=ChIJ54h6tFJRKhMRLqMt2qwHx-4",
+        "placeId": "ChIJ54h6tFJRKhMRLqMt2qwHx-4"
+      },
+      "booking": {
+        "confirmation": "HMCNTHAE39",
+        "vendor": "Airbnb",
+        "amount": 1649.77,
+        "currency": "USD",
+        "notes": "Paid via Google Pay on Jan 6, 2026; host Tommaso; check-in after 3:00 PM, check-out by 10:00 AM."
+      }
+    },
+    {
+      "id": "bettoja-massimo-dazeglio",
+      "name": "Bettoja Hotel Massimo D'Azeglio",
+      "city": "Rome",
+      "checkIn": "2026-02-14T14:00:00+01:00",
+      "checkOut": "2026-02-15T12:00:00+01:00",
+      "guests": [
+        "Sandy Skaria",
+        "Neil Skaria"
+      ],
+      "description": "One-night Rome stay near Roma Termini with easy access to the metro and the historic core.",
+      "location": {
+        "name": "Bettoja Hotel Massimo D'Azeglio",
+        "address": "Via Cavour 18, 00184 Rome, Italy",
+        "lat": 41.90007272,
+        "lon": 12.49924425,
+        "description": "Classic hotel on Via Cavour, a short walk from Roma Termini.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bettoja+Hotel+Massimo+D%27Azeglio+Via+Cavour+18%2C+00184+Rome%2C+Italy&query_place_id=ChIJ6dM9FqZhLxMRQ4sh1q7TANQ",
+        "placeId": "ChIJ6dM9FqZhLxMRQ4sh1q7TANQ"
+      },
+      "booking": {
+        "confirmation": "73363301326406",
+        "vendor": "Hotels.com",
+        "amount": 264.21,
+        "currency": "USD",
+        "notes": "Paid $246.43 on Feb 1, 2026; $17.78 due at property; non-refundable."
+      }
+    }
+  ],
+  "stations": [
+    {
+      "id": "firenze-smn",
+      "name": "Firenze Santa Maria Novella",
+      "city": "Florence",
+      "description": "Florence's main high-speed rail hub on Piazza della Stazione, walkable to the historic center and a short taxi from Oltrarno.",
+      "location": {
+        "name": "Firenze Santa Maria Novella",
+        "address": "Piazza della Stazione, 50123 Florence, Italy",
+        "lat": 43.77611,
+        "lon": 11.24806,
+        "description": "Primary Florence rail station for Frecciarossa and regional services.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Firenze+Santa+Maria+Novella+Piazza+della+Stazione%2C+50123+Florence%2C+Italy&query_place_id=ChIJn7857KhWKhMRqz6WRJuCfos",
+        "placeId": "ChIJn7857KhWKhMRqz6WRJuCfos"
+      }
+    },
+    {
+      "id": "roma-termini",
+      "name": "Roma Termini",
+      "city": "Rome",
+      "description": "Rome's central rail station with metro and bus connections, anchoring the city's main transit corridors.",
+      "location": {
+        "name": "Roma Termini",
+        "address": "Piazza dei Cinquecento, 00185 Rome, Italy",
+        "lat": 41.90083,
+        "lon": 12.50194,
+        "description": "Rome's largest station and key hub for high-speed trains and metro lines.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Roma+Termini+Piazza+dei+Cinquecento%2C+00185+Rome%2C+Italy&query_place_id=ChIJ6WP86Y1hLxMRN7RdVKfGtXA",
+        "placeId": "ChIJ6WP86Y1hLxMRN7RdVKfGtXA"
+      }
+    },
+    {
+      "id": "venezia-santa-lucia",
+      "name": "Venezia Santa Lucia",
+      "city": "Venice",
+      "description": "Venice's main station on the Grand Canal, the gateway to the historic islands and vaporetto network.",
+      "location": {
+        "name": "Venezia Santa Lucia",
+        "address": "Fondamenta Santa Lucia, 30121 Venice, Italy",
+        "lat": 45.44083,
+        "lon": 12.32083,
+        "description": "Venice's central rail station on the western edge of the historic city.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Venezia+Santa+Lucia+Fondamenta+Santa+Lucia%2C+30121+Venice%2C+Italy&query_place_id=ChIJ8dEcUcexfkcRCZPKgPIBfPw",
+        "placeId": "ChIJ8dEcUcexfkcRCZPKgPIBfPw"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "flight-iah-flr-2026-02-07",
+      "title": "Flight: Houston (IAH) \u2192 Florence (FLR)",
+      "category": "flight",
+      "startsAt": "2026-02-07T16:05:00-06:00",
+      "endsAt": "2026-02-08T11:25:00+01:00",
+      "city": "Houston",
+      "description": "Overnight departure from George Bush Intercontinental to Florence, arriving late morning the next day and starting the Italy timeline.",
+      "location": {
+        "name": "George Bush Intercontinental Airport (IAH)",
+        "address": "2800 N Terminal Rd, Houston, TX 77032, USA",
+        "lat": 29.98444,
+        "lon": -95.34139,
+        "description": "Houston's primary international airport and trip departure point.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=George+Bush+Intercontinental+Airport+%28IAH%29+2800+N+Terminal+Rd%2C+Houston%2C+TX+77032%2C+USA&query_place_id=ChIJx1VD2SO0QIYRMcLAyPy0xpw",
+        "placeId": "ChIJx1VD2SO0QIYRMcLAyPy0xpw"
+      },
+      "relatedStayId": null,
+      "route": null,
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": "1011716430",
+        "pnr": "{{AIRLINE_PNR}}",
+        "vendor": "Chase Travel / Delta Air Lines",
+        "amount": 1980.26,
+        "currency": "USD"
+      },
+      "people": [
+        "Neil Skaria",
+        "Sandy Skaria"
+      ],
+      "visibility": "context"
+    },
+    {
+      "id": "stay-san-pier-novello-2026-02-08",
+      "title": "Stay: San Pier Novello (Oltrarno)",
+      "category": "stay",
+      "startsAt": "2026-02-08T14:00:00+01:00",
+      "endsAt": "2026-02-09T10:00:00+01:00",
+      "city": "Florence",
+      "description": "First night in Florence, using a short Oltrarno stay to settle in before moving to the longer apartment base.",
+      "location": {
+        "name": "San Pier Novello in Oltrarno",
+        "address": "Via Romana 26, 50125 Florence, Italy",
+        "lat": 43.7633,
+        "lon": 11.244761,
+        "description": "Via Romana address in Santo Spirito, near the Pitti Palace corridor.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Pier+Novello+in+Oltrarno+Via+Romana+26%2C+50125+Florence%2C+Italy&query_place_id=ChIJTQzo0xFRKhMRI4MtT6cP8KQ",
+        "placeId": "ChIJTQzo0xFRKhMRI4MtT6cP8KQ"
+      },
+      "relatedStayId": "san-pier-novello",
+      "route": null,
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": "5107531117",
+        "pnr": null,
+        "vendor": "Booking.com",
+        "amount": 122.4,
+        "currency": "EUR"
+      },
+      "people": [
+        "Sandy Skaria",
+        "Neil Skaria"
+      ],
+      "visibility": "primary"
+    },
+    {
+      "id": "stay-orto-apartment-2026-02-09",
+      "title": "Stay: Orto Apartment (Oltrarno)",
+      "category": "stay",
+      "startsAt": "2026-02-09T15:00:00+01:00",
+      "endsAt": "2026-02-27T10:00:00+01:00",
+      "city": "Florence",
+      "description": "Main Florence base in Oltrarno for the majority of the trip, ideal for daily exploration and day trips.",
+      "location": {
+        "name": "Orto Apartment in Oltrarno",
+        "address": "Via dell'Orto 31, 50124 Florence, Italy",
+        "lat": 43.7689224,
+        "lon": 11.240889,
+        "description": "Residential street in the Oltrarno neighborhood, south of the Arno.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Orto+Apartment+in+Oltrarno+Via+dell%27Orto+31%2C+50124+Florence%2C+Italy&query_place_id=ChIJ54h6tFJRKhMRLqMt2qwHx-4",
+        "placeId": "ChIJ54h6tFJRKhMRLqMt2qwHx-4"
+      },
+      "relatedStayId": "orto-apartment",
+      "route": null,
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": "HMCNTHAE39",
+        "pnr": null,
+        "vendor": "Airbnb",
+        "amount": 1649.77,
+        "currency": "USD"
+      },
+      "people": [
+        "Neil Skaria",
+        "Sandy Skaria"
+      ],
+      "visibility": "primary"
+    },
+    {
+      "id": "train-fr-rome-2026-02-14",
+      "title": "Train: Florence \u2192 Rome (Frecciarossa 9515)",
+      "category": "travel",
+      "startsAt": "2026-02-14T09:14:00+01:00",
+      "endsAt": "2026-02-14T10:49:00+01:00",
+      "city": "Transit",
+      "description": "Morning Frecciarossa run from Firenze SMN to Roma Termini to start the Rome overnight.",
+      "location": {
+        "name": "Firenze Santa Maria Novella",
+        "address": "Piazza della Stazione, 50123 Florence, Italy",
+        "lat": 43.77611,
+        "lon": 11.24806,
+        "description": "Primary Florence rail station for Frecciarossa services.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Firenze+Santa+Maria+Novella+Piazza+della+Stazione%2C+50123+Florence%2C+Italy&query_place_id=ChIJn7857KhWKhMRqz6WRJuCfos",
+        "placeId": "ChIJn7857KhWKhMRqz6WRJuCfos"
+      },
+      "relatedStayId": "bettoja-massimo-dazeglio",
+      "route": {
+        "fromStationId": "firenze-smn",
+        "toStationId": "roma-termini",
+        "mode": "train",
+        "lineName": "Frecciarossa 9515"
+      },
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": null,
+        "pnr": "R3PZHN",
+        "vendor": "Trenitalia",
+        "amount": null,
+        "currency": null
+      },
+      "people": [
+        "Sandy Skaria",
+        "Neil Skaria"
+      ],
+      "visibility": "primary"
+    },
+    {
+      "id": "tour-colosseum-2026-02-14",
+      "title": "Colosseum Arena Floor Guided Tour",
+      "category": "tour",
+      "startsAt": "2026-02-14T13:30:00+01:00",
+      "endsAt": "2026-02-14T16:00:00+01:00",
+      "city": "Rome",
+      "description": "Guided entry with arena floor access plus Roman Forum and Palatine Hill, meeting near Via dei Fori Imperiali.",
+      "location": {
+        "name": "Santi Cosma e Damiano (meeting point)",
+        "address": "Via dei Fori Imperiali, 1, 00186 Rome, Italy",
+        "lat": 41.892398,
+        "lon": 12.487511,
+        "description": "Meeting point across from the Roman Forum on Via dei Fori Imperiali.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santi+Cosma+e+Damiano+%28meeting+point%29+Via+dei+Fori+Imperiali%2C+1%2C+00186+Rome%2C+Italy&query_place_id=ChIJ-fCxerRhLxMROMS98ae109U",
+        "placeId": "ChIJ-fCxerRhLxMROMS98ae109U"
+      },
+      "relatedStayId": "bettoja-massimo-dazeglio",
+      "route": null,
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": "1741831447",
+        "pnr": "1358819205",
+        "vendor": "Viator / Show Me Italy",
+        "amount": 215.04,
+        "currency": "USD"
+      },
+      "people": [
+        "Neil Skaria",
+        "Sandy Skaria"
+      ],
+      "visibility": "primary"
+    },
+    {
+      "id": "stay-bettoja-2026-02-14",
+      "title": "Stay: Bettoja Hotel Massimo D'Azeglio",
+      "category": "stay",
+      "startsAt": "2026-02-14T14:00:00+01:00",
+      "endsAt": "2026-02-15T12:00:00+01:00",
+      "city": "Rome",
+      "description": "Overnight base near Termini to keep the Rome visit easy and close to transport.",
+      "location": {
+        "name": "Bettoja Hotel Massimo D'Azeglio",
+        "address": "Via Cavour 18, 00184 Rome, Italy",
+        "lat": 41.90007272,
+        "lon": 12.49924425,
+        "description": "Classic hotel on Via Cavour near Roma Termini.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bettoja+Hotel+Massimo+D%27Azeglio+Via+Cavour+18%2C+00184+Rome%2C+Italy&query_place_id=ChIJ6dM9FqZhLxMRQ4sh1q7TANQ",
+        "placeId": "ChIJ6dM9FqZhLxMRQ4sh1q7TANQ"
+      },
+      "relatedStayId": "bettoja-massimo-dazeglio",
+      "route": null,
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": "73363301326406",
+        "pnr": null,
+        "vendor": "Hotels.com",
+        "amount": 264.21,
+        "currency": "USD"
+      },
+      "people": [
+        "Sandy Skaria",
+        "Neil Skaria"
+      ],
+      "visibility": "primary"
+    },
+    {
+      "id": "train-rome-fr-2026-02-15",
+      "title": "Train: Rome \u2192 Florence (Frecciarossa 9532)",
+      "category": "travel",
+      "startsAt": "2026-02-15T12:10:00+01:00",
+      "endsAt": "2026-02-15T13:46:00+01:00",
+      "city": "Transit",
+      "description": "Midday return from Roma Termini to Firenze SMN after the Rome overnight.",
+      "location": {
+        "name": "Roma Termini",
+        "address": "Piazza dei Cinquecento, 00185 Rome, Italy",
+        "lat": 41.90083,
+        "lon": 12.50194,
+        "description": "Rome's main station with metro and regional connections.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Roma+Termini+Piazza+dei+Cinquecento%2C+00185+Rome%2C+Italy&query_place_id=ChIJ6WP86Y1hLxMRN7RdVKfGtXA",
+        "placeId": "ChIJ6WP86Y1hLxMRN7RdVKfGtXA"
+      },
+      "relatedStayId": "orto-apartment",
+      "route": {
+        "fromStationId": "roma-termini",
+        "toStationId": "firenze-smn",
+        "mode": "train",
+        "lineName": "Frecciarossa 9532"
+      },
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": null,
+        "pnr": "R3PZHN",
+        "vendor": "Trenitalia",
+        "amount": null,
+        "currency": null
+      },
+      "people": [
+        "Sandy Skaria",
+        "Neil Skaria"
+      ],
+      "visibility": "primary"
+    },
+    {
+      "id": "train-fr-venice-2026-02-21",
+      "title": "Train: Florence \u2192 Venice (Frecciarossa 9406)",
+      "category": "travel",
+      "startsAt": "2026-02-21T09:20:00+01:00",
+      "endsAt": "2026-02-21T11:34:00+01:00",
+      "city": "Transit",
+      "description": "Morning Frecciarossa ride from Firenze SMN to Venezia Santa Lucia for the day trip.",
+      "location": {
+        "name": "Firenze Santa Maria Novella",
+        "address": "Piazza della Stazione, 50123 Florence, Italy",
+        "lat": 43.77611,
+        "lon": 11.24806,
+        "description": "Primary Florence rail station for Frecciarossa services.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Firenze+Santa+Maria+Novella+Piazza+della+Stazione%2C+50123+Florence%2C+Italy&query_place_id=ChIJn7857KhWKhMRqz6WRJuCfos",
+        "placeId": "ChIJn7857KhWKhMRqz6WRJuCfos"
+      },
+      "relatedStayId": "orto-apartment",
+      "route": {
+        "fromStationId": "firenze-smn",
+        "toStationId": "venezia-santa-lucia",
+        "mode": "train",
+        "lineName": "Frecciarossa 1000 9406"
+      },
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": null,
+        "pnr": "R296RN",
+        "vendor": "Trenitalia",
+        "amount": null,
+        "currency": null
+      },
+      "people": [
+        "Sandy Skaria",
+        "Neil Skaria"
+      ],
+      "visibility": "primary"
+    },
+    {
+      "id": "train-venice-fr-2026-02-21",
+      "title": "Train: Venice \u2192 Florence (Frecciarossa 9437)",
+      "category": "travel",
+      "startsAt": "2026-02-21T19:26:00+01:00",
+      "endsAt": "2026-02-21T21:39:00+01:00",
+      "city": "Transit",
+      "description": "Evening return from Venezia Santa Lucia to Firenze SMN after the Venice day trip.",
+      "location": {
+        "name": "Venezia Santa Lucia",
+        "address": "Fondamenta Santa Lucia, 30121 Venice, Italy",
+        "lat": 45.44083,
+        "lon": 12.32083,
+        "description": "Venice's central station on the Grand Canal.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Venezia+Santa+Lucia+Fondamenta+Santa+Lucia%2C+30121+Venice%2C+Italy&query_place_id=ChIJ8dEcUcexfkcRCZPKgPIBfPw",
+        "placeId": "ChIJ8dEcUcexfkcRCZPKgPIBfPw"
+      },
+      "relatedStayId": "orto-apartment",
+      "route": {
+        "fromStationId": "venezia-santa-lucia",
+        "toStationId": "firenze-smn",
+        "mode": "train",
+        "lineName": "Frecciarossa 1000 9437"
+      },
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": null,
+        "pnr": "R296RN",
+        "vendor": "Trenitalia",
+        "amount": null,
+        "currency": null
+      },
+      "people": [
+        "Sandy Skaria",
+        "Neil Skaria"
+      ],
+      "visibility": "primary"
+    },
+    {
+      "id": "tour-chianti-2026-02-24",
+      "title": "Chianti Wine Tour (Fun in Tuscany)",
+      "category": "tour",
+      "startsAt": "2026-02-24T09:00:00+01:00",
+      "endsAt": "2026-02-24T17:00:00+01:00",
+      "city": "Chianti",
+      "description": "Small-group Chianti wine day with transport provided from Florence, including wineries and scenic countryside stops.",
+      "location": {
+        "name": "Via Curtatone 9 (Cafe Gamberini meeting point)",
+        "address": "Via Curtatone 9, 50123 Florence, Italy",
+        "lat": 43.77389,
+        "lon": 11.24228,
+        "description": "Meeting point near SMN for tour departures on Via Curtatone.",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Via+Curtatone+9+%28Cafe+Gamberini+meeting+point%29+Via+Curtatone+9%2C+50123+Florence%2C+Italy&query_place_id=ChIJh5iTtmpXKhMREHtL7yyZPvA",
+        "placeId": "ChIJh5iTtmpXKhMREHtL7yyZPvA"
+      },
+      "relatedStayId": "orto-apartment",
+      "route": null,
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": null,
+        "pnr": null,
+        "vendor": "Fun in Tuscany",
+        "amount": 300,
+        "currency": "EUR"
+      },
+      "people": [
+        "Neil Skaria",
+        "Sandy Skaria"
+      ],
+      "visibility": "primary"
+    },
+    {
+      "id": "flight-flr-iah-2026-02-27",
+      "title": "Flight: Florence (FLR) \u2192 Houston (IAH)",
+      "category": "flight",
+      "startsAt": "2026-02-27T06:50:00+01:00",
+      "endsAt": "2026-02-27T13:55:00-06:00",
+      "city": "Florence",
+      "description": "Early departure from Florence back to Houston, closing out the Italy timeline.",
+      "location": {
+        "name": "Florence Airport (FLR)",
+        "address": "Via del Termine 11, 50127 Florence, Italy",
+        "lat": 43.81,
+        "lon": 11.20389,
+        "description": "Florence's main airport (Amerigo Vespucci/Peretola).",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Florence+Airport+%28FLR%29+Via+del+Termine+11%2C+50127+Florence%2C+Italy&query_place_id=ChIJV8LI2QBXKhMRsibZbXbkEvI",
+        "placeId": "ChIJV8LI2QBXKhMRsibZbXbkEvI"
+      },
+      "relatedStayId": null,
+      "route": null,
+      "planBPlaceIds": [],
+      "loop": null,
+      "booking": {
+        "confirmation": "1011716430",
+        "pnr": "{{AIRLINE_PNR}}",
+        "vendor": "Chase Travel / Delta Air Lines",
+        "amount": 1980.26,
+        "currency": "USD"
+      },
+      "people": [
+        "Neil Skaria",
+        "Sandy Skaria"
+      ],
+      "visibility": "context"
+    }
+  ],
+  "walkingLoops": [
+    {
+      "id": "florence-historic-core",
+      "name": "Florence Historic Core Loop",
+      "description": "Compact loop through the Duomo, civic squares, and the Arno crossings, ideal for a first-day orientation walk.",
+      "waypoints": [
+        {
+          "name": "Piazza del Duomo",
+          "address": "Piazza del Duomo, Florence, Italy",
+          "lat": 43.773544,
+          "lon": 11.255181,
+          "description": "Florence Cathedral square and city landmark.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Duomo%2C+Florence%2C+Italy&query_place_id=ChIJ7TMbwgNUKhMRGo4s8jZZGCY",
+          "placeId": "ChIJ7TMbwgNUKhMRGo4s8jZZGCY"
+        },
+        {
+          "name": "Piazza della Signoria",
+          "address": "Piazza della Signoria, Florence, Italy",
+          "lat": 43.76959,
+          "lon": 11.25577,
+          "description": "Historic civic square beside Palazzo Vecchio.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+della+Signoria%2C+Florence%2C+Italy&query_place_id=ChIJNa5CIAFUKhMRbZDj-HFpvJ8",
+          "placeId": "ChIJNa5CIAFUKhMRbZDj-HFpvJ8"
+        },
+        {
+          "name": "Ponte Vecchio",
+          "address": "Ponte Vecchio, Florence, Italy",
+          "lat": 43.7681,
+          "lon": 11.2527,
+          "description": "Iconic medieval bridge lined with goldsmith shops.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+Vecchio%2C+Florence%2C+Italy&query_place_id=ChIJZ7bcoqpWKhMR6ALnMOgKMUA",
+          "placeId": "ChIJZ7bcoqpWKhMR6ALnMOgKMUA"
+        },
+        {
+          "name": "Piazza Santo Spirito",
+          "address": "Piazza Santo Spirito, Florence, Italy",
+          "lat": 43.766639,
+          "lon": 11.247523,
+          "description": "Oltrarno square with cafes and local markets.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Santo+Spirito%2C+Florence%2C+Italy&query_place_id=ChIJHUqFj1RRKhMRL7ATkNupM-s",
+          "placeId": "ChIJHUqFj1RRKhMRL7ATkNupM-s"
+        },
+        {
+          "name": "Palazzo Pitti",
+          "address": "Piazza de' Pitti, Florence, Italy",
+          "lat": 43.7655,
+          "lon": 11.2498,
+          "description": "Renaissance palace at the edge of the Boboli Gardens.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Pitti+Piazza+de%27+Pitti%2C+Florence%2C+Italy&query_place_id=ChIJ8ZnbQVRRKhMRKlDx5uTM0Fw",
+          "placeId": "ChIJ8ZnbQVRRKhMRKlDx5uTM0Fw"
+        }
+      ],
+      "totalDistanceKm": 2.5,
+      "estimatedMinutes": 50
+    },
+    {
+      "id": "rome-ancient-core",
+      "name": "Rome Ancient Core Loop",
+      "description": "A walk linking the Colosseum, Roman Forum, and the historic center's plazas for a concentrated Rome overview.",
+      "waypoints": [
+        {
+          "name": "Colosseum",
+          "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
+          "lat": 41.8902102,
+          "lon": 12.4922309,
+          "description": "Rome's iconic amphitheater and anchor of the ancient core.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Colosseum+Piazza+del+Colosseo%2C+1%2C+00184+Rome%2C+Italy&query_place_id=ChIJrRMgU7ZhLxMRxAOFkC7I8Sg",
+          "placeId": "ChIJrRMgU7ZhLxMRxAOFkC7I8Sg"
+        },
+        {
+          "name": "Roman Forum",
+          "address": "Via della Salara Vecchia, 5/6, 00186 Rome, Italy",
+          "lat": 41.88645,
+          "lon": 12.48783,
+          "description": "Ancient civic center with temples and ruins.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman+Forum+Via+della+Salara+Vecchia%2C+5%2F6%2C+00186+Rome%2C+Italy&query_place_id=ChIJ782pg7NhLxMR5n3swAdAkfo",
+          "placeId": "ChIJ782pg7NhLxMR5n3swAdAkfo"
+        },
+        {
+          "name": "Pantheon",
+          "address": "Piazza della Rotonda, 00186 Rome, Italy",
+          "lat": 41.89861595,
+          "lon": 12.4768334144839,
+          "description": "Roman temple turned church with the iconic oculus dome.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pantheon+Piazza+della+Rotonda%2C+00186+Rome%2C+Italy&query_place_id=ChIJqUCGZ09gLxMRLM42IPpl0co",
+          "placeId": "ChIJqUCGZ09gLxMRLM42IPpl0co"
+        },
+        {
+          "name": "Piazza Navona",
+          "address": "Piazza Navona, 00186 Rome, Italy",
+          "lat": 41.8989282,
+          "lon": 12.4731178,
+          "description": "Baroque square with fountains and street artists.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Navona%2C+00186+Rome%2C+Italy&query_place_id=ChIJkyhW-09gLxMR-17gjM4lxAU",
+          "placeId": "ChIJkyhW-09gLxMR-17gjM4lxAU"
+        },
+        {
+          "name": "Trevi Fountain",
+          "address": "Piazza di Trevi, 00187 Rome, Italy",
+          "lat": 41.9009325,
+          "lon": 12.483313,
+          "description": "Signature Rome fountain and classic coin-toss stop.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trevi+Fountain+Piazza+di+Trevi%2C+00187+Rome%2C+Italy&query_place_id=ChIJ1UCDJ1NgLxMRtrsCzOHxdvY",
+          "placeId": "ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"
+        }
+      ],
+      "totalDistanceKm": 3.5,
+      "estimatedMinutes": 75
+    },
+    {
+      "id": "venice-canal-loop",
+      "name": "Venice Canal Loop",
+      "description": "Grand Canal loop through the core landmarks, with a mix of bridges, canals, and classic Venice squares.",
+      "waypoints": [
+        {
+          "name": "Piazza San Marco",
+          "address": "Piazza San Marco, 30124 Venice, Italy",
+          "lat": 45.43426,
+          "lon": 12.33851,
+          "description": "Venice's main square and landmark gathering place.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+San+Marco%2C+30124+Venice%2C+Italy&query_place_id=ChIJRUmpcdexfkcR7DuJiSbh4OQ",
+          "placeId": "ChIJRUmpcdexfkcR7DuJiSbh4OQ"
+        },
+        {
+          "name": "Ponte dell'Accademia",
+          "address": "Ponte dell'Accademia, Venice, Italy",
+          "lat": 45.431644,
+          "lon": 12.328972,
+          "description": "Wooden bridge with sweeping Grand Canal views.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+dell%27Accademia%2C+Venice%2C+Italy&query_place_id=ChIJjYs6_dGxfkcRJYlQcj3fDKk",
+          "placeId": "ChIJjYs6_dGxfkcRJYlQcj3fDKk"
+        },
+        {
+          "name": "Basilica di Santa Maria della Salute",
+          "address": "Dorsoduro, 1, 30123 Venice, Italy",
+          "lat": 45.430556,
+          "lon": 12.334722,
+          "description": "Baroque basilica marking the mouth of the Grand Canal.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+Santa+Maria+della+Salute+Dorsoduro%2C+1%2C+30123+Venice%2C+Italy&query_place_id=ChIJ241oDzOwfkcRXyfdym_t-ck",
+          "placeId": "ChIJ241oDzOwfkcRXyfdym_t-ck"
+        },
+        {
+          "name": "Rialto Bridge",
+          "address": "Rialto Bridge, 30125 Venice, Italy",
+          "lat": 45.43804,
+          "lon": 12.33593,
+          "description": "Historic stone bridge and classic Venice viewpoint.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rialto+Bridge%2C+30125+Venice%2C+Italy&query_place_id=ChIJOzqj-sexfkcRicyOKaERIHM",
+          "placeId": "ChIJOzqj-sexfkcRicyOKaERIHM"
+        }
+      ],
+      "totalDistanceKm": 2.8,
+      "estimatedMinutes": 60
+    }
+  ]
+}

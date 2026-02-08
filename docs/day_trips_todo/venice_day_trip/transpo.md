@@ -3,7 +3,16 @@
 [Trip Overview](./README.md) | [Transport](./transpo.md) | [Activities](./activities.md) | [Tours](./tours.md) | [Back to Day Trips Index](../README.md)
 
 
-Booking priority: first.
+Booking priority: booked.
+
+Booked tickets (Trenitalia Frecciarossa):
+- PNR: R296RN
+- Outbound: Sat Feb 21, 2026 - Frecciarossa 1000 9406, Firenze S. M. Novella 09:20 -> Venezia S. Lucia 11:34
+  - Sandy Skaria: Coach 5 Seat 2D (Ticket 2740199981)
+  - Neil Skaria: Coach 5 Seat 2C (Ticket 2740199982)
+- Return: Sat Feb 21, 2026 - Frecciarossa 1000 9437, Venezia S. Lucia 19:26 -> Firenze S. M. Novella 21:39
+  - Sandy Skaria: Coach 5 Seat 2D (Ticket 2740199983)
+  - Neil Skaria: Coach 5 Seat 2C (Ticket 2740199984)
 
 Preferred date: Saturday, February 21, 2026 (fallback: Sunday, February 22, 2026).
 

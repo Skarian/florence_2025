@@ -3,7 +3,14 @@
 [Trip Overview](./README.md) | [Transport](./transpo.md) | [Activities](./activities.md) | [Tours](./tours.md) | [Back to Day Trips Index](../README.md)
 
 
-Booking priority: high. Preference is full-day tours with transport included.
+Booking priority: booked.
+
+Booked tour:
+- Fun in Tuscany - Chianti Wine Tour (small group)
+  - Date/time: Tue Feb 24, 2026 at 9:00 AM
+  - Meeting point: Via Curtatone 9, Firenze (outside Cafe Gamberini)
+  - Guests: 2 adults
+  - Amount paid: €300.00 (paid; balance €0)
 
 ## Option A: Fun in Tuscany - Chianti Wine Tour (small group, full day)
 

@@ -1,0 +1,3123 @@
+[
+  {
+    "id": "uffizi-gallery",
+    "name": "Galleria degli Uffizi",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Florence's flagship Renaissance museum, packed with iconic works from Botticelli, Leonardo, and Michelangelo.",
+    "highlight": "Botticelli, Leonardo, and Michelangelo under one roof",
+    "address": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+    "lat": 43.767785599999996,
+    "lon": 11.2553108,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Galleria+degli+Uffizi+Piazzale+degli+Uffizi%2C+6%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJgZDFjQBUKhMRzcTwm8i33s0",
+    "placeId": "ChIJgZDFjQBUKhMRzcTwm8i33s0",
+    "tags": [
+      "art",
+      "renaissance",
+      "must-see"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true,
+      "url": "https://www.uffizi.it/en"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Galleria+degli+Uffizi&query_place_id=ChIJgZDFjQBUKhMRzcTwm8i33s0"
+  },
+  {
+    "id": "accademia-gallery",
+    "name": "Galleria dell'Accademia",
+    "city": "Florence",
+    "category": "museum",
+    "description": "The home of Michelangelo's David, plus a focused collection of Florentine sculpture and painting.",
+    "highlight": "See Michelangelo's David in person",
+    "address": "Via Ricasoli, 58/60, 50129 Firenze FI, Italy",
+    "lat": 43.7768145,
+    "lon": 11.2586424,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Galleria+dell%27Accademia+Via+Ricasoli%2C+58%2F60%2C+50129+Firenze+FI%2C+Italy&query_place_id=ChIJJ7mRvIxVKhMRx6JB-q73TG0",
+    "placeId": "ChIJJ7mRvIxVKhMRx6JB-q73TG0",
+    "tags": [
+      "art",
+      "sculpture",
+      "must-see"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true,
+      "url": "https://www.galleriaaccademiafirenze.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Galleria+dell%27Accademia&query_place_id=ChIJJ7mRvIxVKhMRx6JB-q73TG0"
+  },
+  {
+    "id": "palazzo-pitti",
+    "name": "Palazzo Pitti",
+    "city": "Florence",
+    "category": "museum",
+    "description": "The Medici palace complex housing the Palatine Gallery and multiple royal collections.",
+    "highlight": "A vast palace stacked with Medici art",
+    "address": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+    "lat": 43.7651533,
+    "lon": 11.250008099999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Pitti+Piazza+de%27+Pitti%2C+1%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJ8ZnbQVRRKhMRKlDx5uTM0Fw",
+    "placeId": "ChIJ8ZnbQVRRKhMRKlDx5uTM0Fw",
+    "tags": [
+      "palace",
+      "medici",
+      "art"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true,
+      "url": "https://www.uffizi.it/en/palazzo-pitti"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Pitti&query_place_id=ChIJ8ZnbQVRRKhMRKlDx5uTM0Fw"
+  },
+  {
+    "id": "palazzo-vecchio",
+    "name": "Palazzo Vecchio",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Florence's civic palace with frescoed halls and a climbable medieval tower.",
+    "highlight": "Hall of the Five Hundred + tower views",
+    "address": "P.za della Signoria, 50122 Firenze FI, Italy",
+    "lat": 43.7693012,
+    "lon": 11.2561509,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Vecchio+P.za+della+Signoria%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ-ZN45QBUKhMRh1fGVOcr4uQ",
+    "placeId": "ChIJ-ZN45QBUKhMRh1fGVOcr4uQ",
+    "tags": [
+      "history",
+      "civic",
+      "views"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true,
+      "url": "https://musefirenze.it/en/museums/palazzo_vecchio/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Vecchio&query_place_id=ChIJ-ZN45QBUKhMRh1fGVOcr4uQ"
+  },
+  {
+    "id": "opera-del-duomo-museum",
+    "name": "Museo dell'Opera del Duomo",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Museum for the Duomo complex with original sculptures, facades, and workshop models.",
+    "highlight": "See the original Gates of Paradise panels",
+    "address": "Piazza del Duomo, 9, 50122 Firenze FI, Italy",
+    "lat": 43.7731706,
+    "lon": 11.258111999999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+dell%27Opera+del+Duomo+Piazza+del+Duomo%2C+9%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ9S_ivwNUKhMRUYCd7gsp86A",
+    "placeId": "ChIJ9S_ivwNUKhMRUYCd7gsp86A",
+    "tags": [
+      "duomo",
+      "sculpture",
+      "history"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true,
+      "url": "https://duomo.firenze.it/en/home"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+dell%27Opera+del+Duomo&query_place_id=ChIJ9S_ivwNUKhMRUYCd7gsp86A"
+  },
+  {
+    "id": "bargello-museum",
+    "name": "Museo del Bargello",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Former palace-prison turned sculpture museum with masterpieces from Donatello and Michelangelo.",
+    "highlight": "One of the best sculpture collections in Italy",
+    "address": "Via del Proconsolo, 4, 50122 Firenze FI, Italy",
+    "lat": 43.7703981,
+    "lon": 11.2580078,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+del+Bargello+Via+del+Proconsolo%2C+4%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJeSvB0gZUKhMR7CVehDqbPCE",
+    "placeId": "ChIJeSvB0gZUKhMR7CVehDqbPCE",
+    "tags": [
+      "sculpture",
+      "renaissance",
+      "art"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true,
+      "url": "https://museibargello.cultura.gov.it/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+del+Bargello&query_place_id=ChIJeSvB0gZUKhMR7CVehDqbPCE"
+  },
+  {
+    "id": "museo-galileo",
+    "name": "Museo Galileo",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Science museum dedicated to Galileo with original instruments, globes, and experiments.",
+    "highlight": "Original telescopes and scientific tools",
+    "address": "Piazza dei Giudici, 1, 50122 Firenze FI, Italy",
+    "lat": 43.7677337,
+    "lon": 11.255903199999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Galileo+Piazza+dei+Giudici%2C+1%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJKXIhnQBUKhMR1uqaXhDXuhk",
+    "placeId": "ChIJKXIhnQBUKhMR1uqaXhDXuhk",
+    "tags": [
+      "science",
+      "history",
+      "family"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://www.museogalileo.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Galileo&query_place_id=ChIJKXIhnQBUKhMR1uqaXhDXuhk"
+  },
+  {
+    "id": "san-marco-museum",
+    "name": "Museo di San Marco",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Former Dominican monastery with frescoes by Fra Angelico and a serene cloister.",
+    "highlight": "See Fra Angelico's frescoes in the monks' cells",
+    "address": "Piazza San Marco, 3, 50121 Firenze FI, Italy",
+    "lat": 43.7784943,
+    "lon": 11.259431,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+di+San+Marco+Piazza+San+Marco%2C+3%2C+50121+Firenze+FI%2C+Italy&query_place_id=ChIJmUbkZRtUKhMR-63EOMVSuDM",
+    "placeId": "ChIJmUbkZRtUKhMR-63EOMVSuDM",
+    "tags": [
+      "religious",
+      "art",
+      "quiet"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://www.museumsanmarco.it/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+di+San+Marco&query_place_id=ChIJmUbkZRtUKhMR-63EOMVSuDM"
+  },
+  {
+    "id": "archaeological-museum-florence",
+    "name": "Museo Archeologico Nazionale di Firenze",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Deep Etruscan collection with Egyptian and Greek rooms as well.",
+    "highlight": "Etruscan treasures and the Chimera of Arezzo",
+    "address": "Via della Colonna, 38, 50121 Firenze FI, Italy",
+    "lat": 43.7756176,
+    "lon": 11.2632484,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Archeologico+Nazionale+di+Firenze+Via+della+Colonna%2C+38%2C+50121+Firenze+FI%2C+Italy&query_place_id=ChIJ7Rp5SgBVKhMRB9TYu4-SHF8",
+    "placeId": "ChIJ7Rp5SgBVKhMRB9TYu4-SHF8",
+    "tags": [
+      "etruscan",
+      "archaeology",
+      "history"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Archeologico+Nazionale+di+Firenze&query_place_id=ChIJ7Rp5SgBVKhMRB9TYu4-SHF8"
+  },
+  {
+    "id": "museo-novecento",
+    "name": "Museo Novecento",
+    "city": "Florence",
+    "category": "museum",
+    "description": "20th-century Italian art in a former hospital near Santa Maria Novella.",
+    "highlight": "Focused on modern Italian masters",
+    "address": "Piazza Santa Maria Novella, Florence, Italy",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Novecento+Piazza+Santa+Maria+Novella%2C+Florence%2C+Italy&query_place_id=ChIJF2ZeCKlWKhMR8gm3g85c3mA",
+    "placeId": "ChIJF2ZeCKlWKhMR8gm3g85c3mA",
+    "tags": [
+      "modern",
+      "art"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://museonovecento.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Novecento&query_place_id=ChIJLd2VYRsuVUARNjgLnq9U2dE"
+  },
+  {
+    "id": "palazzo-davanzati",
+    "name": "Museo di Palazzo Davanzati",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Historic house museum showcasing Florentine life in the Middle Ages.",
+    "highlight": "Period rooms and painted ceilings",
+    "address": "Via Porta Rossa, 13, 50123 Firenze FI, Italy",
+    "lat": 43.770130200000004,
+    "lon": 11.2528563,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+di+Palazzo+Davanzati+Via+Porta+Rossa%2C+13%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJa-jOLABUKhMRuXva0xBJTRU",
+    "placeId": "ChIJa-jOLABUKhMRuXva0xBJTRU",
+    "tags": [
+      "historic-home",
+      "medieval"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://museibargello.cultura.gov.it/en/museum/palazzo-davanzati/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+di+Palazzo+Davanzati&query_place_id=ChIJa-jOLABUKhMRuXva0xBJTRU"
+  },
+  {
+    "id": "horne-museum",
+    "name": "Museo Horne",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Small Renaissance collection in a quiet palazzo close to Santa Croce.",
+    "highlight": "Intimate galleries away from the crowds",
+    "address": "Via dei Benci, 6, 50122 Firenze FI, Italy",
+    "lat": 43.767492,
+    "lon": 11.2594189,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Horne+Via+dei+Benci%2C+6%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJtTAKXgdUKhMRnoJED4eXS6I",
+    "placeId": "ChIJtTAKXgdUKhMRnoJED4eXS6I",
+    "tags": [
+      "art",
+      "quiet"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://www.museohorne.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Horne&query_place_id=ChIJtTAKXgdUKhMRnoJED4eXS6I"
+  },
+  {
+    "id": "casa-buonarroti",
+    "name": "Casa Buonarroti",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Michelangelo family home with early works, sketches, and archival rooms.",
+    "highlight": "See Michelangelo's early sculptures",
+    "address": "Via Ghibellina, 70, 50122 Firenze FI, Italy",
+    "lat": 43.7699226,
+    "lon": 11.2636048,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa+Buonarroti+Via+Ghibellina%2C+70%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJKwdhJgZUKhMRWRuQNJBwkuI",
+    "placeId": "ChIJKwdhJgZUKhMRWRuQNJBwkuI",
+    "tags": [
+      "michelangelo",
+      "art",
+      "history"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://www.casabuonarroti.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Casa+Buonarroti&query_place_id=ChIJKwdhJgZUKhMRWRuQNJBwkuI"
+  },
+  {
+    "id": "museo-stibbert",
+    "name": "Museo Stibbert",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Eclectic private collection featuring armor, textiles, and decorative arts.",
+    "highlight": "A dramatic hall of suits of armor",
+    "address": "Via Federico Stibbert, 26, 50134 Firenze FI, Italy",
+    "lat": 43.792888399999995,
+    "lon": 11.2549906,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Stibbert+Via+Federico+Stibbert%2C+26%2C+50134+Firenze+FI%2C+Italy&query_place_id=ChIJf8cpTyZUKhMRN28GcxBB1-M",
+    "placeId": "ChIJf8cpTyZUKhMRN28GcxBB1-M",
+    "tags": [
+      "collection",
+      "armor",
+      "quirky"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://www.museostibbert.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Stibbert&query_place_id=ChIJf8cpTyZUKhMRN28GcxBB1-M"
+  },
+  {
+    "id": "museo-bardini",
+    "name": "Museo Bardini",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Collector Stefano Bardini's eclectic sculptures, paintings, and furniture in a hillside palace.",
+    "highlight": "A treasure trove of decorative arts",
+    "address": "Via dei Renai, 37, 50125 Firenze FI, Italy",
+    "lat": 43.7650542,
+    "lon": 11.2583579,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Bardini+Via+dei+Renai%2C+37%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJMcWEKvlTKhMRTeupUd6b7yU",
+    "placeId": "ChIJMcWEKvlTKhMRTeupUd6b7yU",
+    "tags": [
+      "collection",
+      "palace"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://musefirenze.it/en/museums/museo_bardini/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Bardini&query_place_id=ChIJMcWEKvlTKhMRTeupUd6b7yU"
+  },
+  {
+    "id": "museo-zeffirelli",
+    "name": "Museo Zeffirelli",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Theatre and opera exhibits celebrating Franco Zeffirelli's stage designs.",
+    "highlight": "Costumes and set designs from opera and film",
+    "address": "Piazza di S. Firenze, 5, 50122 Firenze FI, Italy",
+    "lat": 43.7696678,
+    "lon": 11.257813599999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Zeffirelli+Piazza+di+S.+Firenze%2C+5%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ75Kh1QBUKhMRyQNllfTmsX4",
+    "placeId": "ChIJ75Kh1QBUKhMRyQNllfTmsX4",
+    "tags": [
+      "theatre",
+      "opera",
+      "design"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://www.fondazionefrancozeffirelli.com/en/museum/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Zeffirelli&query_place_id=ChIJ75Kh1QBUKhMRyQNllfTmsX4"
+  },
+  {
+    "id": "palazzo-strozzi",
+    "name": "Palazzo Strozzi",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Renaissance palace hosting major temporary exhibitions year-round.",
+    "highlight": "Blockbuster art and design shows",
+    "address": "Piazza degli Strozzi, 50123 Firenze FI, Italy",
+    "lat": 43.771273,
+    "lon": 11.251761199999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Strozzi+Piazza+degli+Strozzi%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJAbXBc6pWKhMREaskkbhJgwM",
+    "placeId": "ChIJAbXBc6pWKhMREaskkbhJgwM",
+    "tags": [
+      "exhibition",
+      "palace",
+      "art"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true,
+      "url": "https://www.palazzostrozzi.org/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Strozzi&query_place_id=ChIJAbXBc6pWKhMREaskkbhJgwM"
+  },
+  {
+    "id": "palazzo-medici-riccardi",
+    "name": "Palazzo Medici Riccardi",
+    "city": "Florence",
+    "category": "museum",
+    "description": "The Medici family palace featuring the celebrated Magi Chapel frescoes.",
+    "highlight": "Benozzo Gozzoli's Magi Chapel",
+    "address": "Via Camillo Cavour, 3, 50129 Firenze FI, Italy",
+    "lat": 43.7752136,
+    "lon": 11.255727199999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Medici+Riccardi+Via+Camillo+Cavour%2C+3%2C+50129+Firenze+FI%2C+Italy&query_place_id=ChIJGwHnGwNUKhMRQHINyFmGy48",
+    "placeId": "ChIJGwHnGwNUKhMRQHINyFmGy48",
+    "tags": [
+      "medici",
+      "frescoes",
+      "history"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://palazzomediciriccardi.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Medici+Riccardi&query_place_id=ChIJGwHnGwNUKhMRQHINyFmGy48"
+  },
+  {
+    "id": "medici-chapels",
+    "name": "Cappelle Medicee",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Monumental Medici mausoleum adjacent to San Lorenzo.",
+    "highlight": "Michelangelo's New Sacristy",
+    "address": "Piazza di Madonna degli Aldobrandini, 6, 50123 Firenze FI, Italy",
+    "lat": 43.7750913,
+    "lon": 11.2533903,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cappelle+Medicee+Piazza+di+Madonna+degli+Aldobrandini%2C+6%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJj_nVhwJUKhMRcHH43IISjnI",
+    "placeId": "ChIJj_nVhwJUKhMRcHH43IISjnI",
+    "tags": [
+      "medici",
+      "mausoleum",
+      "art"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true,
+      "url": "https://museomedicee.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Cappelle+Medicee&query_place_id=ChIJj_nVhwJUKhMRcHH43IISjnI"
+  },
+  {
+    "id": "museo-degli-innocenti",
+    "name": "Museo degli Innocenti",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Museum inside Brunelleschi's former hospital for abandoned children.",
+    "highlight": "Architecture, art, and social history together",
+    "address": "P.za della SS. Annunziata, 13, 50122 Firenze FI, Italy",
+    "lat": 43.7760787,
+    "lon": 11.2607237,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+degli+Innocenti+P.za+della+SS.+Annunziata%2C+13%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJbxb81QRUKhMRJSkNSLZu76E",
+    "placeId": "ChIJbxb81QRUKhMRJSkNSLZu76E",
+    "tags": [
+      "architecture",
+      "history",
+      "brunelleschi"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://www.museodeglinnocenti.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+degli+Innocenti&query_place_id=ChIJbxb81QRUKhMRJSkNSLZu76E"
+  },
+  {
+    "id": "opificio-delle-pietre-dure",
+    "name": "Opificio delle Pietre Dure",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Restoration institute showcasing exquisite stone inlay craftsmanship.",
+    "highlight": "Pietra dura panels and restoration work",
+    "address": "Via degli Alfani, 78, 50121 Firenze FI, Italy",
+    "lat": 43.776162199999995,
+    "lon": 11.258892399999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Opificio+delle+Pietre+Dure+Via+degli+Alfani%2C+78%2C+50121+Firenze+FI%2C+Italy&query_place_id=ChIJtUteugRUKhMRgOcTjbDD4Qc",
+    "placeId": "ChIJtUteugRUKhMRgOcTjbDD4Qc",
+    "tags": [
+      "craft",
+      "artisan",
+      "restoration"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://www.opificiodellepietredure.it/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Opificio+delle+Pietre+Dure&query_place_id=ChIJtUteugRUKhMRgOcTjbDD4Qc"
+  },
+  {
+    "id": "gucci-garden",
+    "name": "Gucci Garden",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Fashion museum and boutique celebrating Gucci's Florentine roots.",
+    "highlight": "A deep dive into Gucci's design archives",
+    "address": "P.za della Signoria, 10, 50122 Firenze FI, Italy",
+    "lat": 43.7697532,
+    "lon": 11.2567466,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gucci+Garden+P.za+della+Signoria%2C+10%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ9Rtx4gBUKhMR3XayVaSrbxk",
+    "placeId": "ChIJ9Rtx4gBUKhMR3XayVaSrbxk",
+    "tags": [
+      "fashion",
+      "design",
+      "luxury"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://www.gucci.com/us/en/st/capsule/gucci-garden"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Gucci+Garden&query_place_id=ChIJ9Rtx4gBUKhMR3XayVaSrbxk"
+  },
+  {
+    "id": "ferragamo-museum",
+    "name": "Museo Salvatore Ferragamo",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Museum dedicated to Salvatore Ferragamo's iconic footwear and design legacy.",
+    "highlight": "Iconic shoes and fashion history",
+    "address": "Piazza di Santa Trinita, 5R, 50123 Firenze FI, Italy",
+    "lat": 43.769842999999995,
+    "lon": 11.251206,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Salvatore+Ferragamo+Piazza+di+Santa+Trinita%2C+5R%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJh4GamKxWKhMR7RbQK8gJtRQ",
+    "placeId": "ChIJh4GamKxWKhMR7RbQK8gJtRQ",
+    "tags": [
+      "fashion",
+      "design",
+      "shoes"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false,
+      "url": "https://museoferragamo.it/en/"
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Salvatore+Ferragamo&query_place_id=ChIJh4GamKxWKhMR7RbQK8gJtRQ"
+  },
+  {
+    "id": "la-specola",
+    "name": "La Specola (Natural History Museum)",
+    "city": "Florence",
+    "category": "museum",
+    "description": "Natural history museum with famous anatomical waxes and zoological collections.",
+    "highlight": "The renowned anatomical wax collection",
+    "address": "Via Romana, 17, 50125 Firenze FI, Italy",
+    "lat": 43.7643846,
+    "lon": 11.2469744,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Specola+%28Natural+History+Museum%29+Via+Romana%2C+17%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJRZiJD1RRKhMRslmI5OE5gmw",
+    "placeId": "ChIJRZiJD1RRKhMRslmI5OE5gmw",
+    "tags": [
+      "science",
+      "natural-history"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Busiest late morning; early slots are calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Ticketed museum; book ahead in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=La+Specola+%28Natural+History+Museum%29&query_place_id=ChIJRZiJD1RRKhMRslmI5OE5gmw"
+  },
+  {
+    "id": "duomo-santa-maria-del-fiore",
+    "name": "Cattedrale di Santa Maria del Fiore",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Florence's cathedral with Brunelleschi's iconic dome and marble facade.",
+    "highlight": "Brunelleschi's dome dominates the skyline",
+    "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+    "lat": 43.773145,
+    "lon": 11.255960199999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cattedrale+di+Santa+Maria+del+Fiore+Piazza+del+Duomo%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ9S_ivwNUKhMR9fGqh4RDkVU",
+    "placeId": "ChIJ9S_ivwNUKhMR9fGqh4RDkVU",
+    "tags": [
+      "duomo",
+      "cathedral",
+      "must-see"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Cathedral entry is free; dome and museum are ticketed.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Cattedrale+di+Santa+Maria+del+Fiore&query_place_id=ChIJ9S_ivwNUKhMR9fGqh4RDkVU"
+  },
+  {
+    "id": "baptistery-st-john",
+    "name": "Battistero di San Giovanni",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Octagonal baptistery known for its gilded doors and shimmering mosaics.",
+    "highlight": "The famed Gates of Paradise",
+    "address": "Piazza San Giovanni, 50122 Firenze FI, Italy",
+    "lat": 43.773115399999995,
+    "lon": 11.2550232,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Battistero+di+San+Giovanni+Piazza+San+Giovanni%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJJQXzvwNUKhMRfYXRv0EzSgc",
+    "placeId": "ChIJJQXzvwNUKhMRfYXRv0EzSgc",
+    "tags": [
+      "baptistery",
+      "mosaics",
+      "duomo"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Battistero+di+San+Giovanni&query_place_id=ChIJJQXzvwNUKhMRfYXRv0EzSgc"
+  },
+  {
+    "id": "giotto-campanile",
+    "name": "Campanile di Giotto",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Giotto's bell tower climb with close-up views of the Duomo and city.",
+    "highlight": "Best close-up views of the dome",
+    "address": "Piazza del Duomo, 43\u00b046'22\"N 11\u00b015'20\"E, 50122 Firenze FI, Italy",
+    "lat": 43.7728578,
+    "lon": 11.255782199999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campanile+di+Giotto+Piazza+del+Duomo%2C+43%C2%B046%2722%22N+11%C2%B015%2720%22E%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ9S_ivwNUKhMRuHV-NzGBS5w",
+    "placeId": "ChIJ9S_ivwNUKhMRuHV-NzGBS5w",
+    "tags": [
+      "tower",
+      "views",
+      "duomo"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": true
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Campanile+di+Giotto&query_place_id=ChIJ9S_ivwNUKhMRuHV-NzGBS5w"
+  },
+  {
+    "id": "basilica-santa-croce",
+    "name": "Basilica di Santa Croce",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Franciscan basilica with the tombs of Michelangelo, Galileo, and more.",
+    "highlight": "Frescoes and tombs of famous Florentines",
+    "address": "Piazza di Santa Croce, 16, 50122 Firenze FI, Italy",
+    "lat": 43.7685683,
+    "lon": 11.262267699999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+Santa+Croce+Piazza+di+Santa+Croce%2C+16%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJMcPMIwdUKhMRVRITnGR5go8",
+    "placeId": "ChIJMcPMIwdUKhMRVRITnGR5go8",
+    "tags": [
+      "basilica",
+      "history",
+      "art"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+Santa+Croce&query_place_id=ChIJMcPMIwdUKhMRVRITnGR5go8"
+  },
+  {
+    "id": "basilica-santa-maria-novella",
+    "name": "Basilica di Santa Maria Novella",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Gothic church with frescoed chapels and cloisters near the main station.",
+    "highlight": "Masaccio's Trinity and the cloister",
+    "address": "P.za di Santa Maria Novella, 18, 50123 Firenze FI, Italy",
+    "lat": 43.774634600000006,
+    "lon": 11.2493859,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+Santa+Maria+Novella+P.za+di+Santa+Maria+Novella%2C+18%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJYZMhdalWKhMRsm6GSXl05YU",
+    "placeId": "ChIJYZMhdalWKhMRsm6GSXl05YU",
+    "tags": [
+      "basilica",
+      "frescoes",
+      "gothic"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+Santa+Maria+Novella&query_place_id=ChIJYZMhdalWKhMRsm6GSXl05YU"
+  },
+  {
+    "id": "basilica-san-lorenzo",
+    "name": "Basilica di San Lorenzo",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Medici church with Brunelleschi's interior and the Laurentian Library nearby.",
+    "highlight": "A core Medici site",
+    "address": "Piazza di San Lorenzo, 9, 50123 Firenze FI, Italy",
+    "lat": 43.7749619,
+    "lon": 11.253876199999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+San+Lorenzo+Piazza+di+San+Lorenzo%2C+9%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJa5d9-AJUKhMR7BIYGTLAp-0",
+    "placeId": "ChIJa5d9-AJUKhMR7BIYGTLAp-0",
+    "tags": [
+      "medici",
+      "renaissance",
+      "church"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+San+Lorenzo&query_place_id=ChIJa5d9-AJUKhMR7BIYGTLAp-0"
+  },
+  {
+    "id": "basilica-santo-spirito",
+    "name": "Basilica di Santo Spirito",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Brunelleschi-designed church anchoring the lively Santo Spirito square.",
+    "highlight": "A calm interior in the heart of Oltrarno",
+    "address": "Piazza Santo Spirito, 30, 50125 Firenze FI, Italy",
+    "lat": 43.767096800000004,
+    "lon": 11.2480356,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+Santo+Spirito+Piazza+Santo+Spirito%2C+30%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJS3aUglRRKhMRNB0QFOifHKE",
+    "placeId": "ChIJS3aUglRRKhMRNB0QFOifHKE",
+    "tags": [
+      "oltrarno",
+      "brunelleschi",
+      "church"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+Santo+Spirito&query_place_id=ChIJS3aUglRRKhMRNB0QFOifHKE"
+  },
+  {
+    "id": "basilica-san-miniato",
+    "name": "Basilica di San Miniato al Monte",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Romanesque church above Piazzale Michelangelo with sweeping views.",
+    "highlight": "One of the best skyline viewpoints",
+    "address": "Via delle Porte Sante, 34, 50125 Firenze FI, Italy",
+    "lat": 43.7594184,
+    "lon": 11.2649796,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+San+Miniato+al+Monte+Via+delle+Porte+Sante%2C+34%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJl26IxfBTKhMRsFKUrq2_Pzs",
+    "placeId": "ChIJl26IxfBTKhMRsFKUrq2_Pzs",
+    "tags": [
+      "views",
+      "romaneseque",
+      "hill"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+di+San+Miniato+al+Monte&query_place_id=ChIJl26IxfBTKhMRsFKUrq2_Pzs"
+  },
+  {
+    "id": "santa-maria-del-carmine",
+    "name": "Santa Maria del Carmine (Brancacci Chapel)",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Fresco-filled chapel known for Masaccio's revolutionary paintings.",
+    "highlight": "Masaccio's Brancacci fresco cycle",
+    "address": "Piazza del Carmine, 14, 50124 Firenze FI, Italy",
+    "lat": 43.768263999999995,
+    "lon": 11.243778599999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Maria+del+Carmine+%28Brancacci+Chapel%29+Piazza+del+Carmine%2C+14%2C+50124+Firenze+FI%2C+Italy&query_place_id=ChIJPzLIKVNRKhMRRCBdw2__wbU",
+    "placeId": "ChIJPzLIKVNRKhMRRCBdw2__wbU",
+    "tags": [
+      "frescoes",
+      "art",
+      "chapel"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Maria+del+Carmine+%28Brancacci+Chapel%29&query_place_id=ChIJ7XvTnKlWKhMRtJTT6pEo170"
+  },
+  {
+    "id": "orsanmichele",
+    "name": "Orsanmichele",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Former grain market turned church with guild statues on the exterior.",
+    "highlight": "Sculpture niches by Donatello and others",
+    "address": "Via dell'Arte della Lana, 50123 Firenze FI, Italy",
+    "lat": 43.770683399999996,
+    "lon": 11.255004699999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Orsanmichele+Via+dell%27Arte+della+Lana%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJZ58wpgFUKhMRio9UwvuaZF8",
+    "placeId": "ChIJZ58wpgFUKhMRio9UwvuaZF8",
+    "tags": [
+      "sculpture",
+      "guilds",
+      "history"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Orsanmichele&query_place_id=ChIJZ58wpgFUKhMRio9UwvuaZF8"
+  },
+  {
+    "id": "santissima-annunziata",
+    "name": "Basilica della Santissima Annunziata",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Renaissance basilica with a serene square and frescoed cloisters.",
+    "highlight": "One of Florence's most harmonious piazzas",
+    "address": "P.za della SS. Annunziata, 50122 Firenze FI, Italy",
+    "lat": 43.7770752,
+    "lon": 11.2613407,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+della+Santissima+Annunziata+P.za+della+SS.+Annunziata%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJL1B90xpUKhMRbh5hco0DG_g",
+    "placeId": "ChIJL1B90xpUKhMRbh5hco0DG_g",
+    "tags": [
+      "basilica",
+      "piazza",
+      "frescoes"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Basilica+della+Santissima+Annunziata&query_place_id=ChIJL1B90xpUKhMRbh5hco0DG_g"
+  },
+  {
+    "id": "santa-trinita",
+    "name": "Santa Trinita",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Elegant church near Ponte Santa Trinita with notable Renaissance chapels.",
+    "highlight": "Sassetti Chapel frescoes",
+    "address": "Piazza di Santa Trinita, 50123 Firenze FI, Italy",
+    "lat": 43.7700714,
+    "lon": 11.2510018,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+di+Santa+Trinita%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJvfGIi6pWKhMRGzOUn6-Z8FA",
+    "placeId": "ChIJvfGIi6pWKhMRGzOUn6-Z8FA",
+    "tags": [
+      "church",
+      "frescoes"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Trinita&query_place_id=ChIJyfIB9apWKhMRbaorRAItrjY"
+  },
+  {
+    "id": "ognissanti",
+    "name": "Ognissanti",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Church of All Saints with works by Botticelli and Ghirlandaio.",
+    "highlight": "A quiet church with major art",
+    "address": "Borgo Ognissanti, 42, 50123 Firenze FI, Italy",
+    "lat": 43.772463599999995,
+    "lon": 11.245816399999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Borgo+Ognissanti%2C+42%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJ47NAHKxWKhMRGjG7AbRr3WU",
+    "placeId": "ChIJ47NAHKxWKhMRGjG7AbRr3WU",
+    "tags": [
+      "art",
+      "church"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Ognissanti&query_place_id=ChIJ_S_EFqxWKhMR6Ig-9k5GJHM"
+  },
+  {
+    "id": "san-frediano-in-cestello",
+    "name": "San Frediano in Cestello",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Baroque church tucked into Oltrarno's quieter streets.",
+    "highlight": "A peaceful stop off the main route",
+    "address": "Via di Cestello, 4, 50124 Firenze FI, Italy",
+    "lat": 43.7701158,
+    "lon": 11.244010699999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Frediano+in+Cestello+Via+di+Cestello%2C+4%2C+50124+Firenze+FI%2C+Italy&query_place_id=ChIJN9jrH61WKhMRCqQZ96Hg_pE",
+    "placeId": "ChIJN9jrH61WKhMRCqQZ96Hg_pE",
+    "tags": [
+      "oltrarno",
+      "baroque",
+      "quiet"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=San+Frediano+in+Cestello&query_place_id=ChIJN9jrH61WKhMRCqQZ96Hg_pE"
+  },
+  {
+    "id": "boboli-gardens",
+    "name": "Giardino di Boboli",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "Grand Medici gardens with fountains, statues, and panoramic walks.",
+    "highlight": "The most iconic garden in Florence",
+    "address": "50125 Florence, Metropolitan City of Florence, Italy",
+    "lat": 43.7624972,
+    "lon": 11.248399599999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+di+Boboli+50125+Florence%2C+Metropolitan+City+of+Florence%2C+Italy&query_place_id=ChIJl05zkFZRKhMRstkDO_cCDAQ",
+    "placeId": "ChIJl05zkFZRKhMRstkDO_cCDAQ",
+    "tags": [
+      "garden",
+      "medici",
+      "views"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+di+Boboli&query_place_id=ChIJl05zkFZRKhMRstkDO_cCDAQ"
+  },
+  {
+    "id": "bardini-gardens",
+    "name": "Giardino Bardini",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "Terraced garden with wisteria tunnel, fountains, and skyline views.",
+    "highlight": "Wisteria tunnel in spring",
+    "address": "Costa S. Giorgio, 2, 50125 Firenze FI, Italy",
+    "lat": 43.763318399999996,
+    "lon": 11.2570423,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+Bardini+Costa+S.+Giorgio%2C+2%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJR75Nv_5TKhMRiBv3vgfKtq4",
+    "placeId": "ChIJR75Nv_5TKhMRiBv3vgfKtq4",
+    "tags": [
+      "garden",
+      "views",
+      "wisteria"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+Bardini&query_place_id=ChIJR75Nv_5TKhMRiBv3vgfKtq4"
+  },
+  {
+    "id": "giardino-delle-rose",
+    "name": "Giardino delle Rose",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "Free hillside rose garden below Piazzale Michelangelo.",
+    "highlight": "Roses with a skyline backdrop",
+    "address": "Viale Giuseppe Poggi, 2, 50125 Firenze FI, Italy",
+    "lat": 43.762989499999996,
+    "lon": 11.262823899999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+delle+Rose+Viale+Giuseppe+Poggi%2C+2%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJUTXw5vlTKhMROvZg0D1Pa-c",
+    "placeId": "ChIJUTXw5vlTKhMROvZg0D1Pa-c",
+    "tags": [
+      "garden",
+      "free",
+      "views"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+delle+Rose&query_place_id=ChIJUTXw5vlTKhMROvZg0D1Pa-c"
+  },
+  {
+    "id": "giardino-dell-iris",
+    "name": "Giardino dell'Iris",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "Seasonal iris garden open in spring on the hill below Piazzale Michelangelo.",
+    "highlight": "Limited spring opening with iris blooms",
+    "address": "Piazzale Michelangelo, 50125 Firenze FI, Italy",
+    "lat": 43.7624561,
+    "lon": 11.264930399999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+dell%27Iris+Piazzale+Michelangelo%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJUTXw5vlTKhMROvZg0D1Pa-c",
+    "placeId": "ChIJUTXw5vlTKhMROvZg0D1Pa-c",
+    "tags": [
+      "garden",
+      "seasonal",
+      "views"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+dell%27Iris&query_place_id=ChIJJ7rDSABTKhMRede2wPhan0M"
+  },
+  {
+    "id": "parco-delle-cascine",
+    "name": "Parco delle Cascine",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "Florence's largest park, stretching along the Arno with paths and markets.",
+    "highlight": "A local reset away from the crowds",
+    "address": "Piazzale delle Cascine, 50144 Firenze FI, Italy",
+    "lat": 43.7828113,
+    "lon": 11.216911399999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parco+delle+Cascine+Piazzale+delle+Cascine%2C+50144+Firenze+FI%2C+Italy&query_place_id=ChIJzQFOT8VWKhMRTyUGUZU3a8I",
+    "placeId": "ChIJzQFOT8VWKhMRTyUGUZU3a8I",
+    "tags": [
+      "park",
+      "local",
+      "relax"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Parco+delle+Cascine&query_place_id=ChIJzQFOT8VWKhMRTyUGUZU3a8I"
+  },
+  {
+    "id": "piazzale-michelangelo",
+    "name": "Piazzale Michelangelo",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "The city's classic panorama point with postcard views of the skyline.",
+    "highlight": "Best sunset viewpoint in Florence",
+    "address": "Piazzale Michelangelo, 50125 Firenze FI, Italy",
+    "lat": 43.7629314,
+    "lon": 11.265056099999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazzale+Michelangelo%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJQzhmQ_dTKhMRGVENguFo97Q",
+    "placeId": "ChIJQzhmQ_dTKhMRGVENguFo97Q",
+    "tags": [
+      "views",
+      "sunset",
+      "photo"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Piazzale+Michelangelo&query_place_id=ChIJQzhmQ_dTKhMRGVENguFo97Q"
+  },
+  {
+    "id": "forte-di-belvedere",
+    "name": "Forte di Belvedere",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "Hilltop fortress offering wide-open views and occasional exhibits.",
+    "highlight": "Panoramic terrace above Boboli",
+    "address": "Via di S. Leonardo, 1, 50125 Firenze FI, Italy",
+    "lat": 43.7628415,
+    "lon": 11.253729900000002,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Forte+di+Belvedere+Via+di+S.+Leonardo%2C+1%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJtXXxxf1TKhMR8DM4oNvgS7c",
+    "placeId": "ChIJtXXxxf1TKhMR8DM4oNvgS7c",
+    "tags": [
+      "views",
+      "fortress",
+      "outdoor"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Forte+di+Belvedere&query_place_id=ChIJtXXxxf1TKhMR8DM4oNvgS7c"
+  },
+  {
+    "id": "torre-di-arnolfo",
+    "name": "Torre di Arnolfo",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "Palazzo Vecchio's tower climb for views over Piazza della Signoria.",
+    "highlight": "A classic tower climb in the civic heart",
+    "address": "P.za della Signoria, 2, 50122 Firenze FI, Italy",
+    "lat": 43.7694598,
+    "lon": 11.2560112,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Torre+di+Arnolfo+P.za+della+Signoria%2C+2%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ1fhn5QBUKhMRXUOisSEIBI4",
+    "placeId": "ChIJ1fhn5QBUKhMRXUOisSEIBI4",
+    "tags": [
+      "views",
+      "tower",
+      "history"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Torre+di+Arnolfo&query_place_id=ChIJ1fhn5QBUKhMRXUOisSEIBI4"
+  },
+  {
+    "id": "brunelleschi-dome",
+    "name": "Cupola del Brunelleschi",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "Climb inside the Duomo's dome to the lantern for the ultimate view.",
+    "highlight": "Up-close look at Vasari's dome frescoes",
+    "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+    "lat": 43.7731911,
+    "lon": 11.2567217,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cupola+del+Brunelleschi+Piazza+del+Duomo%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJnbhz7ANUKhMRD-fzrt-dp4c",
+    "placeId": "ChIJnbhz7ANUKhMRD-fzrt-dp4c",
+    "tags": [
+      "views",
+      "duomo",
+      "climb"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "1h",
+    "walkIntensity": "long",
+    "booking": {
+      "required": true
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Cupola+del+Brunelleschi&query_place_id=ChIJnbhz7ANUKhMRD-fzrt-dp4c"
+  },
+  {
+    "id": "torre-san-niccolo",
+    "name": "Torre di San Niccol\u00f2",
+    "city": "Florence",
+    "category": "viewpoint",
+    "description": "Medieval tower by the Arno with seasonal climbs and river views.",
+    "highlight": "A lesser-known tower with river panoramas",
+    "address": "Piazza Giuseppe Poggi, 1, 50125 Firenze FI, Italy",
+    "lat": 43.764548399999995,
+    "lon": 11.2649262,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Torre+di+San+Niccol%C3%B2+Piazza+Giuseppe+Poggi%2C+1%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJVe2LnvdTKhMR4M3zmNOI7Kw",
+    "placeId": "ChIJVe2LnvdTKhMR4M3zmNOI7Kw",
+    "tags": [
+      "views",
+      "tower",
+      "river"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Sunset draws crowds; mornings feel calmer.",
+    "timeNeeded": "30m",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Best around sunrise or sunset; check access notes.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Torre+di+San+Niccol%C3%B2&query_place_id=ChIJSXhCnvdTKhMRWxhaXKhovPs"
+  },
+  {
+    "id": "piazza-della-signoria",
+    "name": "Piazza della Signoria",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Florence's civic square lined with sculptures and the Palazzo Vecchio.",
+    "highlight": "Open-air sculpture gallery in the city center",
+    "address": "P.za della Signoria, 50122 Firenze FI, Italy",
+    "lat": 43.7696855,
+    "lon": 11.255642199999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+della+Signoria+P.za+della+Signoria%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJNa5CIAFUKhMRbZDj-HFpvJ8",
+    "placeId": "ChIJNa5CIAFUKhMRbZDj-HFpvJ8",
+    "tags": [
+      "piazza",
+      "sculpture",
+      "civic"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+della+Signoria&query_place_id=ChIJNa5CIAFUKhMRbZDj-HFpvJ8"
+  },
+  {
+    "id": "piazza-del-duomo",
+    "name": "Piazza del Duomo",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "The heart of Florence with the cathedral, baptistery, and bell tower.",
+    "highlight": "The iconic Duomo complex",
+    "address": "Piazza del Duomo, Florence, Italy",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Duomo%2C+Florence%2C+Italy&query_place_id=ChIJ7TMbwgNUKhMRGo4s8jZZGCY",
+    "placeId": "ChIJ7TMbwgNUKhMRGo4s8jZZGCY",
+    "tags": [
+      "duomo",
+      "must-see",
+      "photo"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Duomo&query_place_id=ChIJ31GTk67GhkcRPw6Nl8LeRdQ"
+  },
+  {
+    "id": "piazza-della-repubblica",
+    "name": "Piazza della Repubblica",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Arcaded square with historic cafes and a lively carousel.",
+    "highlight": "Classic cafes and people watching",
+    "address": "Piazza della Repubblica, Florence, Italy",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+della+Repubblica%2C+Florence%2C+Italy&query_place_id=ChIJdzanlQFUKhMRr81T0BYPoRI",
+    "placeId": "ChIJdzanlQFUKhMRr81T0BYPoRI",
+    "tags": [
+      "piazza",
+      "cafes",
+      "historic"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+della+Repubblica&query_place_id=ChIJIb6kF6ZhLxMRn-yRjyaPHmk"
+  },
+  {
+    "id": "piazza-santa-croce",
+    "name": "Piazza Santa Croce",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Broad square fronting Santa Croce, often home to events and markets.",
+    "highlight": "Big open piazza with event energy",
+    "address": "Piazza di Santa Croce, 50122 Firenze FI, Italy",
+    "lat": 43.7691157,
+    "lon": 11.2615349,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Santa+Croce+Piazza+di+Santa+Croce%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJUSlqrwdUKhMRSKeVLStzbSY",
+    "placeId": "ChIJUSlqrwdUKhMRSKeVLStzbSY",
+    "tags": [
+      "piazza",
+      "events",
+      "landmark"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Santa+Croce&query_place_id=ChIJUSlqrwdUKhMRSKeVLStzbSY"
+  },
+  {
+    "id": "piazza-santo-spirito",
+    "name": "Piazza Santo Spirito",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Oltrarno's social square with cafes, markets, and local energy.",
+    "highlight": "Best spot for local aperitivo",
+    "address": "Piazza Santo Spirito, 50125 Firenze FI, Italy",
+    "lat": 43.766855,
+    "lon": 11.2474139,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Santo+Spirito%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJHUqFj1RRKhMRL7ATkNupM-s",
+    "placeId": "ChIJHUqFj1RRKhMRL7ATkNupM-s",
+    "tags": [
+      "piazza",
+      "oltrarno",
+      "local"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Santo+Spirito&query_place_id=ChIJHUqFj1RRKhMRL7ATkNupM-s"
+  },
+  {
+    "id": "piazza-san-lorenzo",
+    "name": "Piazza San Lorenzo",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Square outside San Lorenzo and the market stalls.",
+    "highlight": "Easy stop for a market bite",
+    "address": "Piazza di San Lorenzo, 50123 Firenze FI, Italy",
+    "lat": 43.7749802,
+    "lon": 11.2546861,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+San+Lorenzo+Piazza+di+San+Lorenzo%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJW5Rj8gJUKhMRGPY7RKlGofs",
+    "placeId": "ChIJW5Rj8gJUKhMRGPY7RKlGofs",
+    "tags": [
+      "piazza",
+      "market",
+      "medici"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+San+Lorenzo&query_place_id=ChIJW5Rj8gJUKhMRGPY7RKlGofs"
+  },
+  {
+    "id": "piazza-pitti",
+    "name": "Piazza Pitti",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Grand piazza in front of Palazzo Pitti and Boboli Gardens.",
+    "highlight": "Gateway to the Medici palace",
+    "address": "Piazza de' Pitti, 50125 Firenze FI, Italy",
+    "lat": 43.7657515,
+    "lon": 11.2495289,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Pitti+Piazza+de%27+Pitti%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJy5ZFVVRRKhMRbqpUMsTTTyE",
+    "placeId": "ChIJy5ZFVVRRKhMRbqpUMsTTTyE",
+    "tags": [
+      "piazza",
+      "palace",
+      "medici"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Pitti&query_place_id=ChIJy5ZFVVRRKhMRbqpUMsTTTyE"
+  },
+  {
+    "id": "ponte-vecchio",
+    "name": "Ponte Vecchio",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Iconic medieval bridge lined with goldsmith shops over the Arno.",
+    "highlight": "Florence's most famous bridge",
+    "address": "Ponte Vecchio, 50125 Firenze FI, Italy",
+    "lat": 43.767925,
+    "lon": 11.2531435,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+Vecchio%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJZ7bcoqpWKhMR6ALnMOgKMUA",
+    "placeId": "ChIJZ7bcoqpWKhMR6ALnMOgKMUA",
+    "tags": [
+      "bridge",
+      "iconic",
+      "photo"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+Vecchio&query_place_id=ChIJZ7bcoqpWKhMR6ALnMOgKMUA"
+  },
+  {
+    "id": "ponte-santa-trinita",
+    "name": "Ponte Santa Trinita",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Elegant Renaissance bridge with perfect Ponte Vecchio photo angles.",
+    "highlight": "Best Ponte Vecchio photo spot",
+    "address": "Ponte Santa Trinita, 50100 Firenze FI, Italy",
+    "lat": 43.7690208,
+    "lon": 11.2503107,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+Santa+Trinita%2C+50100+Firenze+FI%2C+Italy&query_place_id=ChIJw8LF2qpWKhMR_kN1Vo-SqYw",
+    "placeId": "ChIJw8LF2qpWKhMR_kN1Vo-SqYw",
+    "tags": [
+      "bridge",
+      "views",
+      "photo"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+Santa+Trinita&query_place_id=ChIJ2dWvyARUKhMR5jIRx28JmNU"
+  },
+  {
+    "id": "ponte-alle-grazie",
+    "name": "Ponte alle Grazie",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Bridge linking Santa Croce to Oltrarno with sunset strolls.",
+    "highlight": "Quiet river crossing with views",
+    "address": "Ponte alle Grazie, 50125 Firenze FI, Italy",
+    "lat": 43.766171899999996,
+    "lon": 11.2587259,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+alle+Grazie%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJQdmXJABTKhMRG2X4AXqpYqU",
+    "placeId": "ChIJQdmXJABTKhMRG2X4AXqpYqU",
+    "tags": [
+      "bridge",
+      "sunset",
+      "walk"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+alle+Grazie&query_place_id=ChIJQdmXJABTKhMRG2X4AXqpYqU"
+  },
+  {
+    "id": "ponte-alla-carraia",
+    "name": "Ponte alla Carraia",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Low-key bridge used by locals to cross between neighborhoods.",
+    "highlight": "An easy crossing into Oltrarno",
+    "address": "Ponte alla Carraia, 50125 Firenze FI, Italy",
+    "lat": 43.7702455,
+    "lon": 11.2473004,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+alla+Carraia%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJlYaVeqtWKhMRnUzAyeW1Gi0",
+    "placeId": "ChIJlYaVeqtWKhMRnUzAyeW1Gi0",
+    "tags": [
+      "bridge",
+      "local"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+alla+Carraia&query_place_id=ChIJlYaVeqtWKhMRnUzAyeW1Gi0"
+  },
+  {
+    "id": "via-de-tornabuoni",
+    "name": "Via de' Tornabuoni",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Luxury shopping street lined with Renaissance palazzi.",
+    "highlight": "Designer boutiques and elegant facades",
+    "address": "Via de' Tornabuoni, 50123 Firenze FI, Italy",
+    "lat": 43.7709249,
+    "lon": 11.2513741,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Via+de%27+Tornabuoni%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJnTebZ6pWKhMRLget57E5G0c",
+    "placeId": "ChIJnTebZ6pWKhMRLget57E5G0c",
+    "tags": [
+      "shopping",
+      "street",
+      "luxury"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Via+de%27+Tornabuoni&query_place_id=ChIJnTebZ6pWKhMRLget57E5G0c"
+  },
+  {
+    "id": "via-maggio",
+    "name": "Via Maggio",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Oltrarno's antique street with galleries and design shops.",
+    "highlight": "Best street for antiques and design",
+    "address": "Via Maggio, Florence, Italy",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Via+Maggio%2C+Florence%2C+Italy&query_place_id=ChIJ327q71RRKhMRbMAoVA36kZA",
+    "placeId": "ChIJ327q71RRKhMRbMAoVA36kZA",
+    "tags": [
+      "shopping",
+      "antiques",
+      "oltrarno"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Via+Maggio&query_place_id=ChIJpYTPaCp_LBMRQIhOBpIsCB0"
+  },
+  {
+    "id": "borgo-san-frediano",
+    "name": "Borgo San Frediano",
+    "city": "Florence",
+    "category": "landmark",
+    "description": "Local Oltrarno street known for bakeries, bars, and evening energy.",
+    "highlight": "Neighborhood nightlife and casual bites",
+    "address": "Borgo S. Frediano, Firenze FI, Italy",
+    "lat": 43.7698799,
+    "lon": 11.2432137,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Borgo+San+Frediano+Borgo+S.+Frediano%2C+Firenze+FI%2C+Italy&query_place_id=ChIJNXo8I61WKhMRydtt1eZLTz8",
+    "placeId": "ChIJNXo8I61WKhMRydtt1eZLTz8",
+    "tags": [
+      "oltrarno",
+      "street",
+      "local"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Crowds peak mid-day; mornings are quieter.",
+    "timeNeeded": "30m",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Open access; check hours or mass times.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Borgo+San+Frediano&query_place_id=ChIJNXo8I61WKhMRydtt1eZLTz8"
+  },
+  {
+    "id": "mercato-centrale",
+    "name": "Mercato Centrale Firenze",
+    "city": "Florence",
+    "category": "market",
+    "description": "Two-level food hall with Tuscan classics and quick bites.",
+    "highlight": "Easy stop for a casual lunch",
+    "address": "Piazza del Mercato Centrale, 50123 Firenze FI, Italy",
+    "lat": 43.7764676,
+    "lon": 11.2528338,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+Centrale+Firenze+Piazza+del+Mercato+Centrale%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJl8DqtwJUKhMRtRP0_Mh84X0",
+    "placeId": "ChIJl8DqtwJUKhMRtRP0_Mh84X0",
+    "tags": [
+      "foodie",
+      "market",
+      "casual"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "bistecca",
+      "fresh pasta",
+      "gelato"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Peak lunchtime; mornings are freshest.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Markets keep morning hours; some stalls close afternoons.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+Centrale+Firenze&query_place_id=ChIJl8DqtwJUKhMRtRP0_Mh84X0"
+  },
+  {
+    "id": "mercato-san-lorenzo",
+    "name": "Mercato di San Lorenzo",
+    "city": "Florence",
+    "category": "market",
+    "description": "Outdoor market known for leather goods and souvenirs.",
+    "highlight": "Bargain for leather and gifts",
+    "address": "Piazza del Mercato Centrale, 50123 Firenze FI, Italy",
+    "lat": 43.7764676,
+    "lon": 11.2528338,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+di+San+Lorenzo+Piazza+del+Mercato+Centrale%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJl8DqtwJUKhMRtRP0_Mh84X0",
+    "placeId": "ChIJl8DqtwJUKhMRtRP0_Mh84X0",
+    "tags": [
+      "market",
+      "shopping",
+      "souvenirs"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "busy",
+    "crowdNote": "Peak lunchtime; mornings are freshest.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Markets keep morning hours; some stalls close afternoons.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+di+San+Lorenzo&query_place_id=ChIJl8DqtwJUKhMRtRP0_Mh84X0"
+  },
+  {
+    "id": "mercato-sant-ambrogio",
+    "name": "Mercato di Sant'Ambrogio",
+    "city": "Florence",
+    "category": "market",
+    "description": "Local market with fresh produce, butcher stalls, and casual lunch counters.",
+    "highlight": "Most local feeling market in Florence",
+    "address": "Piazza Lorenzo Ghiberti, 50122 Firenze FI, Italy",
+    "lat": 43.7705747,
+    "lon": 11.266912999999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+di+Sant%27Ambrogio+Piazza+Lorenzo+Ghiberti%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJYa1JLAlUKhMRi09aQ6yeiaE",
+    "placeId": "ChIJYa1JLAlUKhMRi09aQ6yeiaE",
+    "tags": [
+      "market",
+      "local",
+      "food"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "busy",
+    "crowdNote": "Peak lunchtime; mornings are freshest.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Markets keep morning hours; some stalls close afternoons.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+di+Sant%27Ambrogio&query_place_id=ChIJYa1JLAlUKhMRi09aQ6yeiaE"
+  },
+  {
+    "id": "mercato-porcellino",
+    "name": "Mercato del Porcellino (Mercato Nuovo)",
+    "city": "Florence",
+    "category": "market",
+    "description": "Historic covered market with leather stalls and the bronze boar fountain.",
+    "highlight": "Rub the boar for good luck",
+    "address": "Piazza del Mercato Nuovo, 5 R, 50123 Firenze FI, Italy",
+    "lat": 43.7699893,
+    "lon": 11.254278099999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+del+Porcellino+%28Mercato+Nuovo%29+Piazza+del+Mercato+Nuovo%2C+5+R%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJHUmwTQBUKhMRJUdZXpc3ndk",
+    "placeId": "ChIJHUmwTQBUKhMRJUdZXpc3ndk",
+    "tags": [
+      "market",
+      "souvenirs",
+      "landmark"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "busy",
+    "crowdNote": "Peak lunchtime; mornings are freshest.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Markets keep morning hours; some stalls close afternoons.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+del+Porcellino+%28Mercato+Nuovo%29&query_place_id=ChIJHUmwTQBUKhMRJUdZXpc3ndk"
+  },
+  {
+    "id": "mercato-delle-pulci",
+    "name": "Mercato delle Pulci",
+    "city": "Florence",
+    "category": "market",
+    "description": "Flea market near Sant'Ambrogio with vintage and curiosities.",
+    "highlight": "Best for antique hunting",
+    "address": "Mercato delle Pulci, Florence, Italy",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+delle+Pulci%2C+Florence%2C+Italy&query_place_id=ChIJHUmwTQBUKhMRJUdZXpc3ndk",
+    "placeId": "ChIJHUmwTQBUKhMRJUdZXpc3ndk",
+    "tags": [
+      "market",
+      "vintage",
+      "shopping"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "busy",
+    "crowdNote": "Peak lunchtime; mornings are freshest.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Markets keep morning hours; some stalls close afternoons.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+delle+Pulci&query_place_id=ChIJb7t20mbvGRMRh50R_qNzE6I"
+  },
+  {
+    "id": "scuola-del-cuoio",
+    "name": "Scuola del Cuoio",
+    "city": "Florence",
+    "category": "shopping",
+    "description": "Historic leather school and workshop selling Florentine-made goods.",
+    "highlight": "Watch artisans at work",
+    "address": "Via di S. Giuseppe, 5/R, 50122 Firenze FI, Italy",
+    "lat": 43.7684002,
+    "lon": 11.2636918,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Scuola+del+Cuoio+Via+di+S.+Giuseppe%2C+5%2FR%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJrww3uwdUKhMRYMyuNasVNAE",
+    "placeId": "ChIJrww3uwdUKhMRYMyuNasVNAE",
+    "tags": [
+      "artisan",
+      "leather",
+      "shopping"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Most active mid-day; evenings are quieter.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Shops keep Italian hours; expect midday closures.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Scuola+del+Cuoio&query_place_id=ChIJrww3uwdUKhMRYMyuNasVNAE"
+  },
+  {
+    "id": "la-rinascente-firenze",
+    "name": "La Rinascente Firenze",
+    "city": "Florence",
+    "category": "shopping",
+    "description": "Multi-level department store with a rooftop view terrace.",
+    "highlight": "Great skyline view from the top",
+    "address": "Piazza della Repubblica, 4, 50123 Firenze FI, Italy",
+    "lat": 43.7713405,
+    "lon": 11.2546231,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Rinascente+Firenze+Piazza+della+Repubblica%2C+4%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJcY5FlwFUKhMRsMKbKoPEQbM",
+    "placeId": "ChIJcY5FlwFUKhMRsMKbKoPEQbM",
+    "tags": [
+      "shopping",
+      "views",
+      "department-store"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Most active mid-day; evenings are quieter.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Shops keep Italian hours; expect midday closures.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=La+Rinascente+Firenze&query_place_id=ChIJcY5FlwFUKhMRsMKbKoPEQbM"
+  },
+  {
+    "id": "officina-smnovella",
+    "name": "Officina Profumo-Farmaceutica di Santa Maria Novella (Shop)",
+    "city": "Florence",
+    "category": "shopping",
+    "description": "Historic apothecary shop selling perfumes, soaps, and herbal products.",
+    "highlight": "Beautiful historic interiors",
+    "address": "Via della Scala, 16, 50123 Firenze FI, Italy",
+    "lat": 43.7741512,
+    "lon": 11.2477529,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Officina+Profumo-Farmaceutica+di+Santa+Maria+Novella+%28Shop%29+Via+della+Scala%2C+16%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJFzokr49WKhMRevvA9krcHHs",
+    "placeId": "ChIJFzokr49WKhMRevvA9krcHHs",
+    "tags": [
+      "apothecary",
+      "shopping",
+      "historic"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Most active mid-day; evenings are quieter.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Shops keep Italian hours; expect midday closures.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Officina+Profumo-Farmaceutica+di+Santa+Maria+Novella+%28Shop%29&query_place_id=ChIJFzokr49WKhMRevvA9krcHHs"
+  },
+  {
+    "id": "oltrarno-neighborhood",
+    "name": "Oltrarno",
+    "city": "Florence",
+    "category": "other",
+    "description": "South-of-the-Arno neighborhood known for artisans, quiet streets, and local dining.",
+    "highlight": "Best for a slower, local Florence",
+    "address": "Oltrarno, 50125 Florence, Metropolitan City of Florence, Italy",
+    "lat": 43.7651277,
+    "lon": 11.250062999999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oltrarno%2C+50125+Florence%2C+Metropolitan+City+of+Florence%2C+Italy&query_place_id=ChIJe1LKsVVRKhMRMkl4x3GnPhk",
+    "placeId": "ChIJe1LKsVVRKhMRMkl4x3GnPhk",
+    "tags": [
+      "neighborhood",
+      "artisan",
+      "local"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Varies by time and neighborhood.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Great for wandering; keep an eye on opening hours.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Oltrarno&query_place_id=ChIJe1LKsVVRKhMRMkl4x3GnPhk"
+  },
+  {
+    "id": "san-frediano-neighborhood",
+    "name": "San Frediano",
+    "city": "Florence",
+    "category": "other",
+    "description": "Trendy Oltrarno pocket with bakeries, bars, and creative studios.",
+    "highlight": "Hip nightlife and artisan shops",
+    "address": "San Frediano, Firenze FI, Italy",
+    "lat": 43.7686305,
+    "lon": 11.2425828,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Frediano%2C+Firenze+FI%2C+Italy&query_place_id=ChIJb_E36VJRKhMRLqFXm5LhFwg",
+    "placeId": "ChIJb_E36VJRKhMRLqFXm5LhFwg",
+    "tags": [
+      "neighborhood",
+      "nightlife",
+      "local"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Varies by time and neighborhood.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Great for wandering; keep an eye on opening hours.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=San+Frediano&query_place_id=ChIJb_E36VJRKhMRLqFXm5LhFwg"
+  },
+  {
+    "id": "santo-spirito-neighborhood",
+    "name": "Santo Spirito",
+    "city": "Florence",
+    "category": "other",
+    "description": "Neighborhood centered on the Santo Spirito square and basilica.",
+    "highlight": "Local markets and aperitivo energy",
+    "address": "Piazza Santo Spirito, 30, 50125 Firenze FI, Italy",
+    "lat": 43.767096800000004,
+    "lon": 11.2480356,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Santo+Spirito%2C+30%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJcUbTxlRRKhMRpQFxsF6bJ7o",
+    "placeId": "ChIJcUbTxlRRKhMRpQFxsF6bJ7o",
+    "tags": [
+      "neighborhood",
+      "piazza",
+      "local"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Varies by time and neighborhood.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Great for wandering; keep an eye on opening hours.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Santo+Spirito&query_place_id=ChIJS3aUglRRKhMRNB0QFOifHKE"
+  },
+  {
+    "id": "san-niccolo-neighborhood",
+    "name": "San Niccol\u00f2",
+    "city": "Florence",
+    "category": "other",
+    "description": "Quiet hill-edge neighborhood near the river and towers.",
+    "highlight": "Gateway to the Piazzale Michelangelo climb",
+    "address": "San Niccol\u00f2, Florence, Italy",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Niccol%C3%B2%2C+Florence%2C+Italy&query_place_id=ChIJl78EAvlTKhMRgohZz78jLMY",
+    "placeId": "ChIJl78EAvlTKhMRgohZz78jLMY",
+    "tags": [
+      "neighborhood",
+      "views",
+      "quiet"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Varies by time and neighborhood.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Great for wandering; keep an eye on opening hours.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=San+Niccol%C3%B2&query_place_id=ChIJt1UaKHOXfEcRwGIEbPAZYz8"
+  },
+  {
+    "id": "santa-croce-neighborhood",
+    "name": "Santa Croce District",
+    "city": "Florence",
+    "category": "other",
+    "description": "Historic district with the Santa Croce basilica and lively piazza.",
+    "highlight": "Artisan shops and a grand square",
+    "address": "Piazza di Santa Croce, 16, 50122 Firenze FI, Italy",
+    "lat": 43.7685683,
+    "lon": 11.262267699999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Croce+District+Piazza+di+Santa+Croce%2C+16%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJMcPMIwdUKhMRVRITnGR5go8",
+    "placeId": "ChIJMcPMIwdUKhMRVRITnGR5go8",
+    "tags": [
+      "neighborhood",
+      "history",
+      "piazza"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Varies by time and neighborhood.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Great for wandering; keep an eye on opening hours.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Croce+District&query_place_id=ChIJMcPMIwdUKhMRVRITnGR5go8"
+  },
+  {
+    "id": "duomo-san-giovanni-district",
+    "name": "Duomo / San Giovanni District",
+    "city": "Florence",
+    "category": "other",
+    "description": "The busy historic core surrounding the Duomo complex.",
+    "highlight": "Florence's most iconic blocks",
+    "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+    "lat": 43.773145,
+    "lon": 11.255960199999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Duomo+%2F+San+Giovanni+District+Piazza+del+Duomo%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ9S_ivwNUKhMR9fGqh4RDkVU",
+    "placeId": "ChIJ9S_ivwNUKhMR9fGqh4RDkVU",
+    "tags": [
+      "neighborhood",
+      "duomo",
+      "historic"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Varies by time and neighborhood.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Great for wandering; keep an eye on opening hours.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Duomo+%2F+San+Giovanni+District&query_place_id=ChIJ9S_ivwNUKhMR9fGqh4RDkVU"
+  },
+  {
+    "id": "san-lorenzo-district",
+    "name": "San Lorenzo District",
+    "city": "Florence",
+    "category": "other",
+    "description": "Medici district with markets, basilica, and the central market hall.",
+    "highlight": "Great for shopping and quick bites",
+    "address": "San Lorenzo, Florence, Italy",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Lorenzo+District+San+Lorenzo%2C+Florence%2C+Italy&query_place_id=ChIJa5d9-AJUKhMR7BIYGTLAp-0",
+    "placeId": "ChIJa5d9-AJUKhMR7BIYGTLAp-0",
+    "tags": [
+      "neighborhood",
+      "market",
+      "medici"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Varies by time and neighborhood.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Great for wandering; keep an eye on opening hours.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=San+Lorenzo+District&query_place_id=ChIJJWFoiFKQj4ARrDLHRY2fDO4"
+  },
+  {
+    "id": "santa-maria-novella-district",
+    "name": "Santa Maria Novella District",
+    "city": "Florence",
+    "category": "other",
+    "description": "Gateway neighborhood around the train station and the basilica.",
+    "highlight": "Convenient base with historic corners",
+    "address": "P.za di Santa Maria Novella, 18, 50123 Firenze FI, Italy",
+    "lat": 43.774634600000006,
+    "lon": 11.2493859,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Maria+Novella+District+P.za+di+Santa+Maria+Novella%2C+18%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJYZMhdalWKhMRsm6GSXl05YU",
+    "placeId": "ChIJYZMhdalWKhMRsm6GSXl05YU",
+    "tags": [
+      "neighborhood",
+      "station",
+      "historic"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "mixed",
+    "crowdNote": "Varies by time and neighborhood.",
+    "timeNeeded": "1h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Great for wandering; keep an eye on opening hours.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Maria+Novella+District&query_place_id=ChIJYZMhdalWKhMRsm6GSXl05YU"
+  },
+  {
+    "id": "trattoria-mario",
+    "name": "Trattoria Mario",
+    "city": "Florence",
+    "category": "food",
+    "description": "Classic market-side trattoria known for hearty Tuscan lunches.",
+    "highlight": "Legendary lunch spot near San Lorenzo",
+    "address": "Via Rosina, 2r, 50123 Firenze FI, Italy",
+    "lat": 43.776560499999995,
+    "lon": 11.2545811,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Mario+Via+Rosina%2C+2r%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJA4Ty0AJUKhMRN14HOd2lpe0",
+    "placeId": "ChIJA4Ty0AJUKhMRN14HOd2lpe0",
+    "tags": [
+      "trattoria",
+      "local",
+      "lunch"
+    ],
+    "dietTags": [
+      "meat-forward"
+    ],
+    "signatureItems": [
+      "bistecca alla fiorentina",
+      "ribollita"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Mario&query_place_id=ChIJA4Ty0AJUKhMRN14HOd2lpe0"
+  },
+  {
+    "id": "trattoria-sostanza",
+    "name": "Trattoria Sostanza",
+    "city": "Florence",
+    "category": "food",
+    "description": "Tiny, no-frills trattoria famous for butter chicken and simple classics.",
+    "highlight": "Iconic butter chicken",
+    "address": "Via del Porcellana, 25/R, 50123 Firenze FI, Italy",
+    "lat": 43.7726719,
+    "lon": 11.2470175,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Sostanza+Via+del+Porcellana%2C+25%2FR%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJN60f96tWKhMRiZNBRkS36BM",
+    "placeId": "ChIJN60f96tWKhMRiZNBRkS36BM",
+    "tags": [
+      "trattoria",
+      "classic",
+      "small"
+    ],
+    "dietTags": [
+      "meat-forward"
+    ],
+    "signatureItems": [
+      "pollo al burro",
+      "spinach gnudi"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Sostanza&query_place_id=ChIJN60f96tWKhMRiZNBRkS36BM"
+  },
+  {
+    "id": "trattoria-cammillo",
+    "name": "Trattoria Cammillo",
+    "city": "Florence",
+    "category": "food",
+    "description": "Beloved Oltrarno trattoria with long-standing Tuscan recipes.",
+    "highlight": "A local favorite for hearty classics",
+    "address": "Borgo San Iacopo, 57/r, 50125 Firenze FI, Italy",
+    "lat": 43.7681122,
+    "lon": 11.2499866,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Cammillo+Borgo+San+Iacopo%2C+57%2Fr%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJLRNpLVVRKhMRG4c6pltQEhE",
+    "placeId": "ChIJLRNpLVVRKhMRG4c6pltQEhE",
+    "tags": [
+      "trattoria",
+      "oltrarno",
+      "classic"
+    ],
+    "dietTags": [
+      "meat-forward"
+    ],
+    "signatureItems": [
+      "pappardelle",
+      "bistecca"
+    ],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Cammillo&query_place_id=ChIJLRNpLVVRKhMRG4c6pltQEhE"
+  },
+  {
+    "id": "il-santo-bevitore",
+    "name": "Il Santo Bevitore",
+    "city": "Florence",
+    "category": "food",
+    "description": "Modern Tuscan cooking in a stylish Oltrarno dining room.",
+    "highlight": "Seasonal menu with a creative twist",
+    "address": "Via Santo Spirito, 64r, 50125 Firenze FI, Italy",
+    "lat": 43.769039199999995,
+    "lon": 11.2468281,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Il+Santo+Bevitore+Via+Santo+Spirito%2C+64r%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJWdMUV6tWKhMROxsW3gM8GNA",
+    "placeId": "ChIJWdMUV6tWKhMROxsW3gM8GNA",
+    "tags": [
+      "modern",
+      "oltrarno",
+      "dinner"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "seasonal pasta",
+      "tuscan mains"
+    ],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Il+Santo+Bevitore&query_place_id=ChIJWdMUV6tWKhMROxsW3gM8GNA"
+  },
+  {
+    "id": "osteria-santo-spirito",
+    "name": "Osteria Santo Spirito",
+    "city": "Florence",
+    "category": "food",
+    "description": "Casual Osteria near the Santo Spirito square with classic Tuscan fare.",
+    "highlight": "Lively square-side dinners",
+    "address": "Piazza Santo Spirito, 16/R, 50125 Firenze FI, Italy",
+    "lat": 43.76652,
+    "lon": 11.246794,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Osteria+Santo+Spirito+Piazza+Santo+Spirito%2C+16%2FR%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJS3aUglRRKhMR46SfGOlv13k",
+    "placeId": "ChIJS3aUglRRKhMR46SfGOlv13k",
+    "tags": [
+      "osteria",
+      "oltrarno",
+      "local"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "gnocchi",
+      "crostini"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Osteria+Santo+Spirito&query_place_id=ChIJS3aUglRRKhMR46SfGOlv13k"
+  },
+  {
+    "id": "la-giostra",
+    "name": "La Giostra",
+    "city": "Florence",
+    "category": "food",
+    "description": "Romantic restaurant known for candlelit rooms and pear ravioli.",
+    "highlight": "Famous pear ravioli",
+    "address": "Borgo Pinti, 16 R, 50121 Firenze FI, Italy",
+    "lat": 43.7720862,
+    "lon": 11.2621153,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Giostra+Borgo+Pinti%2C+16+R%2C+50121+Firenze+FI%2C+Italy&query_place_id=ChIJt9Hy2AVUKhMRfaoxnj4MUDA",
+    "placeId": "ChIJt9Hy2AVUKhMRfaoxnj4MUDA",
+    "tags": [
+      "romantic",
+      "dinner",
+      "classic"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "pear ravioli",
+      "tuscan mains"
+    ],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=La+Giostra&query_place_id=ChIJt9Hy2AVUKhMRfaoxnj4MUDA"
+  },
+  {
+    "id": "osteria-vini-e-vecchi-sapori",
+    "name": "Osteria Vini e Vecchi Sapori",
+    "city": "Florence",
+    "category": "food",
+    "description": "Small, intimate osteria with hand-written menus and Tuscan staples.",
+    "highlight": "Tiny room, big flavors",
+    "address": "Via dei Magazzini, 3/r, 50122 Firenze FI, Italy",
+    "lat": 43.7700901,
+    "lon": 11.256815699999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Osteria+Vini+e+Vecchi+Sapori+Via+dei+Magazzini%2C+3%2Fr%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJAfLFIwFUKhMRmv-jS9sjRb8",
+    "placeId": "ChIJAfLFIwFUKhMRmv-jS9sjRb8",
+    "tags": [
+      "osteria",
+      "small",
+      "classic"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "pappardelle",
+      "seasonal specials"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Osteria+Vini+e+Vecchi+Sapori&query_place_id=ChIJAfLFIwFUKhMRmv-jS9sjRb8"
+  },
+  {
+    "id": "enoteca-pinchiorri",
+    "name": "Enoteca Pinchiorri",
+    "city": "Florence",
+    "category": "food",
+    "description": "Legendary fine-dining destination with an encyclopedic wine cellar.",
+    "highlight": "Michelin-starred dining and wine",
+    "address": "Via Ghibellina, 87, 50122 Firenze FI, Italy",
+    "lat": 43.769999999999996,
+    "lon": 11.2622222,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Enoteca+Pinchiorri+Via+Ghibellina%2C+87%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJJ9GCOAZUKhMRhWUgMfpfvX4",
+    "placeId": "ChIJJ9GCOAZUKhMRhWUgMfpfvX4",
+    "tags": [
+      "fine-dining",
+      "wine",
+      "splurge"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "tasting menu",
+      "wine pairings"
+    ],
+    "price": "$$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": true
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Enoteca+Pinchiorri&query_place_id=ChIJJ9GCOAZUKhMRhWUgMfpfvX4"
+  },
+  {
+    "id": "all-antico-vinaio",
+    "name": "All'Antico Vinaio",
+    "city": "Florence",
+    "category": "food",
+    "description": "Famous sandwich shop serving oversized schiacciata panini.",
+    "highlight": "Florence's most famous panini",
+    "address": "Via dei Neri, 65r, 50122 Firenze FI, Italy",
+    "lat": 43.768489599999995,
+    "lon": 11.2574767,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=All%27Antico+Vinaio+Via+dei+Neri%2C+65r%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJe1LisABUKhMR9gcnnxWrwls",
+    "placeId": "ChIJe1LisABUKhMR9gcnnxWrwls",
+    "tags": [
+      "sandwich",
+      "quick",
+      "casual"
+    ],
+    "dietTags": [
+      "meat-forward"
+    ],
+    "signatureItems": [
+      "schiacciata sandwich"
+    ],
+    "price": "$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=All%27Antico+Vinaio&query_place_id=ChIJe1LisABUKhMR9gcnnxWrwls"
+  },
+  {
+    "id": "la-prosciutteria-firenze",
+    "name": "La Prosciutteria Firenze",
+    "city": "Florence",
+    "category": "food",
+    "description": "Casual spot for boards of prosciutto, cheeses, and wine.",
+    "highlight": "Best for shared boards and wine",
+    "address": "Via dei Neri, 54/R, 50122 Firenze FI, Italy",
+    "lat": 43.7682998,
+    "lon": 11.257825799999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Prosciutteria+Firenze+Via+dei+Neri%2C+54%2FR%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ8xl3swBUKhMR7K2fo_9_VSw",
+    "placeId": "ChIJ8xl3swBUKhMR7K2fo_9_VSw",
+    "tags": [
+      "casual",
+      "wine",
+      "boards"
+    ],
+    "dietTags": [
+      "meat-forward"
+    ],
+    "signatureItems": [
+      "charcuterie boards",
+      "wine"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=La+Prosciutteria+Firenze&query_place_id=ChIJ8xl3swBUKhMR7K2fo_9_VSw"
+  },
+  {
+    "id": "gelateria-dei-neri",
+    "name": "Gelateria dei Neri",
+    "city": "Florence",
+    "category": "food",
+    "description": "Beloved gelateria with rotating seasonal flavors.",
+    "highlight": "A classic gelato stop",
+    "address": "Via dei Neri, 9/11R, 50122 Firenze FI, Italy",
+    "lat": 43.7677669,
+    "lon": 11.259068899999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gelateria+dei+Neri+Via+dei+Neri%2C+9%2F11R%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJO9XQTAdUKhMRMo-yPAI1mk0",
+    "placeId": "ChIJO9XQTAdUKhMRMo-yPAI1mk0",
+    "tags": [
+      "gelato",
+      "dessert",
+      "quick"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "gelato"
+    ],
+    "price": "$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Gelateria+dei+Neri&query_place_id=ChIJO9XQTAdUKhMRMo-yPAI1mk0"
+  },
+  {
+    "id": "gelateria-la-carraia",
+    "name": "Gelateria La Carraia",
+    "city": "Florence",
+    "category": "food",
+    "description": "Popular gelateria near the Arno with wide flavor selection.",
+    "highlight": "Big portions, great value",
+    "address": "Piazza Nazario Sauro, 25/r, 50124 Firenze FI, Italy",
+    "lat": 43.7696107,
+    "lon": 11.2466647,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gelateria+La+Carraia+Piazza+Nazario+Sauro%2C+25%2Fr%2C+50124+Firenze+FI%2C+Italy&query_place_id=ChIJfcXDX6tWKhMRs1cgi8ISs7E",
+    "placeId": "ChIJfcXDX6tWKhMRs1cgi8ISs7E",
+    "tags": [
+      "gelato",
+      "dessert"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "gelato"
+    ],
+    "price": "$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Gelateria+La+Carraia&query_place_id=ChIJfcXDX6tWKhMRs1cgi8ISs7E"
+  },
+  {
+    "id": "vivoli",
+    "name": "Vivoli",
+    "city": "Florence",
+    "category": "food",
+    "description": "Historic gelateria with classic Florentine flavors.",
+    "highlight": "Old-school gelato institution",
+    "address": "Via Isola delle Stinche, 7r, 50122 Firenze FI, Italy",
+    "lat": 43.769935100000005,
+    "lon": 11.2600892,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vivoli+Via+Isola+delle+Stinche%2C+7r%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJg6kOnalWKhMRs-D-wrDp7a0",
+    "placeId": "ChIJg6kOnalWKhMRs-D-wrDp7a0",
+    "tags": [
+      "gelato",
+      "historic"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "gelato"
+    ],
+    "price": "$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Vivoli&query_place_id=ChIJg6kOnalWKhMRs-D-wrDp7a0"
+  },
+  {
+    "id": "perche-no",
+    "name": "Perch\u00e9 No!",
+    "city": "Florence",
+    "category": "food",
+    "description": "Small gelateria known for creamy classics and affogato.",
+    "highlight": "Great for an affogato stop",
+    "address": "Via dei Tavolini, 19r, 50122 Firenze FI, Italy",
+    "lat": 43.7708328,
+    "lon": 11.2554362,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Perch%C3%A9+No%21+Via+dei+Tavolini%2C+19r%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJTZ5cCQFUKhMR_OZ-LDIQ_1c",
+    "placeId": "ChIJTZ5cCQFUKhMR_OZ-LDIQ_1c",
+    "tags": [
+      "gelato",
+      "dessert"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "affogato",
+      "gelato"
+    ],
+    "price": "$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Perch%C3%A9+No%21&query_place_id=ChIJTZ5cCQFUKhMR_OZ-LDIQ_1c"
+  },
+  {
+    "id": "gelateria-santa-trinita",
+    "name": "Gelateria Santa Trinita",
+    "city": "Florence",
+    "category": "food",
+    "description": "Award-winning gelateria near Ponte Santa Trinita.",
+    "highlight": "Creative gelato flavors",
+    "address": "Lungarno Guicciardini 5, Piazza de' Frescobaldi, 11/R, 50125 Firenze FI, Italy",
+    "lat": 43.7685069,
+    "lon": 11.2497553,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gelateria+Santa+Trinita+Lungarno+Guicciardini+5%2C+Piazza+de%27+Frescobaldi%2C+11%2FR%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJC75l1KpWKhMRNP1FLyPaRxU",
+    "placeId": "ChIJC75l1KpWKhMRNP1FLyPaRxU",
+    "tags": [
+      "gelato",
+      "dessert"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "gelato"
+    ],
+    "price": "$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Gelateria+Santa+Trinita&query_place_id=ChIJC75l1KpWKhMRNP1FLyPaRxU"
+  },
+  {
+    "id": "ditta-artigianale",
+    "name": "Ditta Artigianale",
+    "city": "Florence",
+    "category": "food",
+    "description": "Third-wave coffee roaster with multiple stylish cafes.",
+    "highlight": "Best specialty coffee in Florence",
+    "address": "Via dei Neri, 32 R, 50122 Firenze FI, Italy",
+    "lat": 43.7681001,
+    "lon": 11.2586342,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ditta+Artigianale+Via+dei+Neri%2C+32+R%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJ-zHyTgdUKhMR7A4snCBn6Bg",
+    "placeId": "ChIJ-zHyTgdUKhMR7A4snCBn6Bg",
+    "tags": [
+      "coffee",
+      "cafe",
+      "modern"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "espresso",
+      "flat white"
+    ],
+    "price": "$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Ditta+Artigianale&query_place_id=ChIJ-zHyTgdUKhMR7A4snCBn6Bg"
+  },
+  {
+    "id": "caffe-gilli",
+    "name": "Caff\u00e8 Gilli",
+    "city": "Florence",
+    "category": "food",
+    "description": "Historic cafe on Piazza della Repubblica with elegant pastries.",
+    "highlight": "Classic Florentine cafe experience",
+    "address": "Via Roma, 1r, 50123 Firenze FI, Italy",
+    "lat": 43.7718814,
+    "lon": 11.2541517,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Gilli+Via+Roma%2C+1r%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJFbiwjwFUKhMRPJ-oDzQyiBU",
+    "placeId": "ChIJFbiwjwFUKhMRPJ-oDzQyiBU",
+    "tags": [
+      "cafe",
+      "historic",
+      "pastry"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "pastries",
+      "espresso"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Gilli&query_place_id=ChIJFbiwjwFUKhMRPJ-oDzQyiBU"
+  },
+  {
+    "id": "caffe-paszkowski",
+    "name": "Caff\u00e8 Paszkowski",
+    "city": "Florence",
+    "category": "food",
+    "description": "Historic cafe with aperitivo service on Piazza della Repubblica.",
+    "highlight": "Great for an early evening spritz",
+    "address": "Piazza della Repubblica, 6, 50123 Firenze FI, Italy",
+    "lat": 43.7719491,
+    "lon": 11.253717199999999,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Paszkowski+Piazza+della+Repubblica%2C+6%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJQ2lmkAFUKhMR9pB1JD9CTao",
+    "placeId": "ChIJQ2lmkAFUKhMR9pB1JD9CTao",
+    "tags": [
+      "cafe",
+      "aperitivo",
+      "historic"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "aperitivo",
+      "espresso"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Paszkowski&query_place_id=ChIJQ2lmkAFUKhMR9pB1JD9CTao"
+  },
+  {
+    "id": "caffe-rivoire",
+    "name": "Caff\u00e8 Rivoire",
+    "city": "Florence",
+    "category": "food",
+    "description": "Classic cafe overlooking Piazza della Signoria.",
+    "highlight": "Front-row seat to the piazza",
+    "address": "P.za della Signoria, 5/R, 50122 Firenze FI, Italy",
+    "lat": 43.769588899999995,
+    "lon": 11.2550855,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Rivoire+P.za+della+Signoria%2C+5%2FR%2C+50122+Firenze+FI%2C+Italy&query_place_id=ChIJPcUoVgBUKhMR_EtWFBvqxII",
+    "placeId": "ChIJPcUoVgBUKhMR_EtWFBvqxII",
+    "tags": [
+      "cafe",
+      "piazza",
+      "historic"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "hot chocolate",
+      "espresso"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Rivoire&query_place_id=ChIJPcUoVgBUKhMR_EtWFBvqxII"
+  },
+  {
+    "id": "le-volpi-e-l-uva",
+    "name": "Le Volpi e l'Uva",
+    "city": "Florence",
+    "category": "food",
+    "description": "Compact wine bar offering Tuscan wines and small bites.",
+    "highlight": "Local wine bar with great pours",
+    "address": "Piazza dei Rossi, 1R, 50125 Firenze FI, Italy",
+    "lat": 43.766998699999995,
+    "lon": 11.2528281,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Le+Volpi+e+l%27Uva+Piazza+dei+Rossi%2C+1R%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJhdGJ5v9TKhMR6vnWEbNOYwU",
+    "placeId": "ChIJhdGJ5v9TKhMR6vnWEbNOYwU",
+    "tags": [
+      "wine",
+      "aperitivo",
+      "small"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "wine",
+      "crostini"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Le+Volpi+e+l%27Uva&query_place_id=ChIJhdGJ5v9TKhMR6vnWEbNOYwU"
+  },
+  {
+    "id": "il-santino",
+    "name": "Il Santino",
+    "city": "Florence",
+    "category": "food",
+    "description": "Tiny wine bar with a focused selection and snacks.",
+    "highlight": "Small, casual aperitivo spot",
+    "address": "Via Santo Spirito, 60/r, 50125 Firenze FI, Italy",
+    "lat": 43.7690111,
+    "lon": 11.24691,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Il+Santino+Via+Santo+Spirito%2C+60%2Fr%2C+50125+Firenze+FI%2C+Italy&query_place_id=ChIJX-77UKtWKhMR-6C27uTUuYc",
+    "placeId": "ChIJX-77UKtWKhMR-6C27uTUuYc",
+    "tags": [
+      "wine",
+      "aperitivo",
+      "casual"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "wine",
+      "small plates"
+    ],
+    "price": "$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Il+Santino&query_place_id=ChIJX-77UKtWKhMR-6C27uTUuYc"
+  },
+  {
+    "id": "procacci",
+    "name": "Procacci",
+    "city": "Florence",
+    "category": "food",
+    "description": "Historic cafe and shop known for truffle panini.",
+    "highlight": "Truffle panini and aperitivo",
+    "address": "Via de' Tornabuoni, 64R, 50123 Firenze FI, Italy",
+    "lat": 43.771805,
+    "lon": 11.251479,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Procacci+Via+de%27+Tornabuoni%2C+64R%2C+50123+Firenze+FI%2C+Italy&query_place_id=ChIJ9Z_cE6pWKhMRQtmysbRwWCs",
+    "placeId": "ChIJ9Z_cE6pWKhMRQtmysbRwWCs",
+    "tags": [
+      "cafe",
+      "truffle",
+      "historic"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "truffle panini",
+      "spritz"
+    ],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Dinner rush after 7:30; reserve if you can.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Reserve for dinner in peak season.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Procacci&query_place_id=ChIJ9Z_cE6pWKhMRQtmysbRwWCs"
+  }
+]

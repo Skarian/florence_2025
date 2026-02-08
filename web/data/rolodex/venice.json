@@ -1,0 +1,99 @@
+[
+  {
+    "id": "st-marks-basilica",
+    "name": "St. Mark's Basilica",
+    "city": "Venice",
+    "category": "landmark",
+    "description": "Venice's iconic basilica, known for its gold mosaics and layered Byzantine architecture. The interior is dazzling but busy, so a quick focused visit works well before wandering the piazza.",
+    "highlight": "Gold mosaics and Byzantine grandeur",
+    "address": "San Marco, 328, 30124 Venezia",
+    "lat": 45.43444,
+    "lon": 12.33972,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St.+Mark%27s+Basilica+San+Marco%2C+328%2C+30124+Venezia&query_place_id=ChIJv2xSZNexfkcRBaKsgyfVEgo",
+    "tags": [
+      "iconic",
+      "architecture",
+      "history"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "free",
+    "crowdLevel": "busy",
+    "crowdNote": "Expect lines late morning; early entry is smoother.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false,
+      "notes": "Museum access often requires a timed ticket."
+    },
+    "hoursNote": "Check official site for ticketed areas and hours.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/St_Mark%27s_Basilica",
+    "placeId": "ChIJv2xSZNexfkcRBaKsgyfVEgo"
+  },
+  {
+    "id": "doges-palace",
+    "name": "Doge's Palace (Palazzo Ducale)",
+    "city": "Venice",
+    "category": "museum",
+    "description": "The former seat of Venetian power with grand chambers, dramatic staircases, and the Bridge of Sighs. The palace is a strong half-day anchor if you want a deep dose of Venetian history.",
+    "highlight": "Grand state rooms and the Bridge of Sighs",
+    "address": "San Marco 1, 30124 Venezia",
+    "lat": 45.4337,
+    "lon": 12.3405,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Doge%27s+Palace+%28Palazzo+Ducale%29+San+Marco+1%2C+30124+Venezia&query_place_id=ChIJiYRBbtexfkcR0XTK3ATSCbg",
+    "tags": [
+      "history",
+      "architecture",
+      "museum"
+    ],
+    "dietTags": [],
+    "signatureItems": [],
+    "price": "$$$",
+    "crowdLevel": "busy",
+    "crowdNote": "Timed tickets help; afternoon crowds are heavy.",
+    "timeNeeded": "2h",
+    "walkIntensity": "moderate",
+    "booking": {
+      "required": true,
+      "url": "https://www.visitmuve.it/en/palazzo-ducale/"
+    },
+    "hoursNote": "Ticketed museum; check MUVE for hours and closures.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Doge%27s_Palace",
+    "placeId": "ChIJiYRBbtexfkcR0XTK3ATSCbg"
+  },
+  {
+    "id": "rialto-market",
+    "name": "Rialto Market",
+    "city": "Venice",
+    "category": "market",
+    "description": "A classic morning stop for produce and seafood stalls near the Rialto Bridge. It is best as an early walk-through before the crowds build, then pair it with cicchetti nearby.",
+    "highlight": "Morning market near the Rialto Bridge",
+    "address": "Campo della Pescheria, 30125 Venezia",
+    "lat": 45.43959,
+    "lon": 12.33458,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rialto+Market+Campo+della+Pescheria%2C+30125+Venezia&query_place_id=ChIJW0Lx-_yxfkcRKRQZ2kfiIDE",
+    "tags": [
+      "market",
+      "local",
+      "foodie"
+    ],
+    "dietTags": [
+      "veg-friendly"
+    ],
+    "signatureItems": [
+      "cicchetti",
+      "seafood snacks"
+    ],
+    "price": "$",
+    "crowdLevel": "mixed",
+    "crowdNote": "Busiest mid-morning; go early for space.",
+    "timeNeeded": "1h",
+    "walkIntensity": "light",
+    "booking": {
+      "required": false
+    },
+    "hoursNote": "Most stalls run in the morning; afternoons are quiet.",
+    "sourceUrl": "https://www.comune.venezia.it/it/content/rialto-mercato",
+    "placeId": "ChIJW0Lx-_yxfkcRKRQZ2kfiIDE"
+  }
+]
